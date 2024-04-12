@@ -911,6 +911,52 @@
   doi       = "10.1080/01446193.2022.2141432"
 }
 
+@ARTICLE{Zhou2023-nw,
+  title     = "How the reliability of external competences shapes the
+               modularization strategies of industrialized construction firms",
+  author    = "Zhou, Shanjing (alexander) and Mosca, Luigi and Whyte, Jennifer",
+  abstract  = "Firms modularize as they move into industrialized construction.
+               Prior research highlights the importance of their modularization
+               strategies, arguing that firms can either build the competence
+               for modularization internally or can source them externally. To
+               understand what shapes a firm?s choice to use external
+               competences in its modularization strategy, we studied three
+               leading construction firms. In this multiple case study, Alpha,
+               Beta and Gamma are leaders in Asian markets, using reinforced
+               concrete solutions in high-rise industrialized construction.
+               Where external competences are available, our analyses show the
+               work firms do to make them reliable and that their choice to use
+               external competences is shaped by their reliability. Alpha
+               modularized in a context with little available external
+               competences, so it built new competences in-house; Beta chose to
+               use the externally available manufacturing and assembly
+               competences, using standards, remote monitoring and control of
+               product architectures to make them reliable for their use in
+               modularization; Gamma had available competences in the external
+               context and initially sought to use them, but reliability
+               concerns led to it modularizing by acquiring the firms to bring
+               these competences in-house. Our contribution is to show how
+               ensuring the reliability of external competences shapes
+               modularization strategies. Further, we have identified actions
+               that firms can adopt to make external competences reliable
+               through: (1) use of international standards, (2) quality control
+               procedures, (3) control of product architectures, and 4)
+               acquisition of external competences. We provide implications for
+               practitioners and policy makers seeking to transition to
+               industrialized construction; and discuss new areas for research.",
+  journal   = "Construction Management and Economics",
+  publisher = "Routledge",
+  volume    =  41,
+  number    =  7,
+  pages     = "608--619",
+  month     =  jul,
+  year      =  2023,
+  url       = "https://doi.org/10.1080/01446193.2023.2187071",
+  keywords  = "AEC Cited Lit for Jacqui",
+  issn      = "0144-6193",
+  doi       = "10.1080/01446193.2023.2187071"
+}
+
 @ARTICLE{Bishop2009-co,
   title     = "Constructing Learning: Adversarial and Collaborative Working in
                the British Construction Industry",
@@ -1281,6 +1327,50 @@
   location    = "Island of Rhodes Greece",
   isbn        = "9781450352277",
   doi         = "10.1145/3056540.3076192"
+}
+
+% The entry below contains non-ASCII chars that could not be converted
+% to a LaTeX equivalent.
+@ARTICLE{Whyte2022-my,
+  title     = "Making Futures That Matter: Future Making, Online Working and
+               Organizing Remotely",
+  author    = "Whyte, Jennifer and Comi, Alice and Mosca, Luigi",
+  abstract  = "Future making is the work of making sense of possible and
+               probable futures, and evaluating, negotiating and giving form to
+               preferred ones. Practices of making futures are increasingly
+               online. Yet, as organizational participants come together online
+               ? organizing remotely to make offline futures ? they lack the
+               shared experiential knowledge that is gained through embodied
+               and situated practices. In this essay, we argue that the lack of
+               experiential knowledge makes future making online difficult to
+               organize and vulnerable to excluding relevant expertise;
+               dialogue may become inward-looking and self-referential within
+               the online environment, with an emotional and cognitive distance
+               from the futures being made outside of such representations. We
+               draw on the pragmatist tradition to theorize online future
+               making, to articulate its dynamics and the challenges that
+               arise, and to suggest remedial actions. By conceptualizing
+               future making as a form of inquiry ? as a distributed and
+               reflective process that proceeds through engagement with
+               representations of the future ? we identify three remedial
+               actions for online future making: to solicit feedback, juxtapose
+               alternatives and change medium. These remedial actions seek to
+               compensate for the lack of shared experiential knowledge by both
+               sustaining the online involvement of heterogeneous remote
+               participants and by bringing in relevant (offline) places,
+               people and materials to online future making.",
+  journal   = "Organization Theory",
+  publisher = "SAGE Publications Ltd",
+  volume    =  3,
+  number    =  1,
+  pages     = "26317877211069138",
+  month     =  jan,
+  year      =  2022,
+  url       = "https://doi.org/10.1177/26317877211069138",
+  keywords  = "+Notion;+Readwise;Future of Work;§New Literature;AEC Cited Lit
+               for Jacqui",
+  issn      = "2631-7877",
+  doi       = "10.1177/26317877211069138"
 }
 
 @ARTICLE{Cuendet2014-vs,

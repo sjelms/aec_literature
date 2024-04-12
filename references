@@ -2197,6 +2197,39 @@
   doi       = "10.4324/9781315743332-4"
 }
 
+@INCOLLECTION{Aitchison2017-ps,
+  title     = "Prefabricated Housing in Architectural Culture",
+  booktitle = "Offsite Architecture: Constructing the Future",
+  author    = "Aitchison, Mathew and Macarthur, John",
+  editor    = "Smith, Ryan E and Quale, John D",
+  abstract  = "Architects have long been fascinated by the promise of
+               prefabricated and modular building, in particular housing, and
+               even more so the individual detached house. The `prefab' house
+               combines the promise of industrialised building with the dream
+               of a popular mass market for architecture, and it has exercised
+               a magnetism over architectural culture which is as strong today
+               as it was at any point in the past. The interest originated in
+               the mid-nineteenth century, but achieved a strong uptake in the
+               early to mid-twentieth century, and has continued in a cyclical
+               pattern up to the present day. This chapter describes this
+               fascination with the prefab house and discusses some of the
+               complications that have plagued its translation into real
+               outcomes. As the history of twentieth-century architect-led
+               prefabricated housing illustrates, architecture has tended to
+               co-opt industrial advances to support existing ideologies.",
+  publisher = "Routledge",
+  pages     = "77--89",
+  month     =  mar,
+  year      =  2017,
+  url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-5",
+  address   = "New York : Routledge, 2016.",
+  keywords  = "++ClickUp;+Notion;+Readwise;AEC;Cross Ref Chapter;ePub |
+               Kindle;Offsite Architecture: Constructing the Future;AEC Cited
+               Lit for Jacqui",
+  isbn      = "9781315743332",
+  doi       = "10.4324/9781315743332-5"
+}
+
 @INCOLLECTION{Smith2017-ff,
   title     = "Offsite Construction in Education: A Survey of Prefabrication in
                Design and Construction Academia",

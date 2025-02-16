@@ -1,3 +1,141 @@
+@PHDTHESIS{Crayne2021-jq,
+  title    = "Analyzing the Causes of Labor Shortage in the Commercial Carpentry
+              Trades in the San Francisco Bay Area",
+  author   = "Crayne, Jack",
+  abstract = "Skilled labor is vital to the success of any construction project,
+              and no contractor would be able to operate without the skilled
+              laborers that they employ. The construction industry has been
+              subject to a shortage of skilled labor for the last two decades
+              for many reasons, including the poor image of construction workers
+              among the public, inadequate training measures, and an aging
+              workforce. Reviewing the literature on the matter shows that the
+              leading cause of shortage is low pay and increasing age of the
+              workforce overall, while the demand for labor grows at a faster
+              rate than the supply of labor grows. Poor worker retention
+              practices were also identified as a cause for shortage and a
+              reason for workers leaving the industry, and proper retention
+              tactics are assessed, including monetary and non-monetary
+              considerations for workers in order to foster a better
+              employer-employee relationship. Recruiting practices among labor
+              unions and contractors are also assessed through interviews and
+              research, with the results suggesting that a greater emphasis
+              should be put on improving the image of construction workers in
+              the public eye, increasing the prestige of a job in construction
+              and leading to increased participation in the construction
+              industry among young people.",
+  year     =  2021,
+  url      = "https://digitalcommons.calpoly.edu/cmsp/456/",
+  keywords = "2\_Upgrade MAY 2023;Construction 4.0;00\_TO READ;3\_Upgrade OCT
+              2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Labor;\_In
+              Notion;\_In Readwise;\_New Literature;\_In ClickUp",
+  school   = "California Polytechnic State University, San Luis Obispo"
+}
+
+@ARTICLE{Hairstans2018-zk,
+  title     = "Offsite {HUB} (Scotland): establishing a collaborative regional
+               framework for knowledge exchange in the {UK}",
+  author    = "Hairstans, Robert and Smith, Ryan E",
+  journal   = "Architectural Engineering and Design Management",
+  publisher = "Taylor \& Francis",
+  volume    =  14,
+  number    = "1-2",
+  pages     = "60--77",
+  abstract  = "ABSTRACTThe UK is set to become Europe?s largest construction
+               market by 2030. However, UK construction productivity performance
+               is regarded as weak, with low skills levels considered to be a
+               key contributory factor. Consequently, off-site construction has
+               been identified by the UK Government as a vehicle for improving
+               productivity levels if the skills deficiencies in this particular
+               market segment can be addressed. A series of projects were,
+               therefore, launched by the UK Commission for Employment and
+               Skills (UKCES) to encourage an R\&D approach to skills and
+               development application in the workplace. This paper reports on
+               one of these research projects, a University and Industry
+               collaboration between two of the largest off-site timber platform
+               frame manufacturers in the UK. The paper explains how a needs
+               analysis process was utilised to develop skills training content
+               tailored to the immediate needs of the industry partners. It also
+               explores how working with academia and a wider community of
+               stakeholders allowed this training content to result in
+               sector-level impact via knowledge exchange activities and generic
+               skills material creation. Finally, the novel approach of
+               utilising ?Hoshin? planning to form a larger regional Offsite HUB
+               (Scotland) Community of Practice, with a developed plan for
+               collaboration aligned with international off-site research
+               objectives, is also explained. The case study presented in this
+               paper is evidence of success in mobilising industry through
+               creating communities of practice to advance the construction
+               sector regionally. It also provides a generalisable method that
+               is reproducible by other university?industry cohorts in order to
+               realise shared industry-wide goals.",
+  month     =  "4~" # mar,
+  year      =  2018,
+  url       = "https://doi.org/10.1080/17452007.2017.1314858",
+  keywords  = "Construction 4.0;2\_Upgrade MAY 2023;00\_TO READ;Journal
+               Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+               Notion;\_In Readwise;AEC;Important;\_New Literature",
+  doi       = "10.1080/17452007.2017.1314858",
+  issn      = "1745-2007"
+}
+
+@BOOK{Casini2022-yp,
+  title     = "Construction 4.0: Advanced Technology, Tools and Materials for
+               the Digital Transformation of the Construction Industry",
+  author    = "Casini, Marco",
+  publisher = "Elsevier Science",
+  abstract  = "Developments in data acquisition technologies, digital
+               information and analysis, automated construction processes, and
+               advanced materials and products have finally started to move the
+               construction industry - traditionally reluctant to innovation and
+               slow in adopting new technologies - toward a new era. Massive
+               changes are occurring because of the possibilities created by
+               Building information modeling, Extended reality, Internet of
+               Things, Artificial intelligence and Machine Learning, Big data,
+               Nanotechnology, 3D printing, and other advanced technologies,
+               which are strongly interconnected and are driving the
+               capabilities for much more efficient construction at scale.
+               Construction 4.0: Advanced Technology, Tools and Materials for
+               the Digital Transformation of the Construction Industry provides
+               readers with a state-of-the-art review of the ongoing digital
+               transformation of the sector within the new 4.0 framework,
+               presenting a thorough investigation of the emerging trends,
+               technologies, and strategies in the fields of smart building
+               design, construction, and operation and providing a comprehensive
+               guideline on how to exploit the new possibilities offered by the
+               digital revolution. It will be an essential reference resource
+               for academic researchers, material scientists and civil
+               engineers, undergraduate and graduate students, and other
+               professionals working in the field of smart ecoefficient
+               construction and cutting-edge technologies applied to
+               construction. Provides an overview of the Construction 4.0
+               framework to address the global challenges of the building sector
+               in the 21st century and an in-depth analysis of the most advanced
+               digital technologies and systems for the operation and
+               maintenance of infrastructure, real estate, and other built
+               assets Covers major innovations across the value chain, including
+               building design, fabrication, construction, operation and
+               maintenance, and end-of-life Illustrates the most advanced
+               digital tools and methods to support the building design
+               activity, including generative design, virtual reality, and
+               digital fabrication Presents a thorough review of the most
+               advanced construction materials, building methods, and techniques
+               for a new connected and automated construction model Explores the
+               digital transformation for smart energy buildings and their
+               integration with emerging smart grids and smart cities Reflects
+               upon major findings and identifies emerging market opportunities
+               for the whole AECO sector",
+  year      =  2022,
+  url       = "https://play.google.com/store/books/details?id=VkZPEAAAQBAJ",
+  keywords  = "Construction 4.0;Marco Casini Construction 4.0;Notion
+               Catalogued;2\_Upgrade MAY 2023;00\_TO READ;AEC Cited Lit for
+               Jacqui;\_In Readwise;AEC;Essential;\_Cataloged;\_In ClickUp;Cross
+               Ref Chapter",
+  doi       = "10.1016/c2019-0-04325-7",
+  isbn      =  9780128217979,
+  language  = "en",
+  annote    = "Book Citation: No PDF. See Chapters."
+}
+
 @BOOK{Smith2017-zx,
   title     = "Offsite Architecture: Constructing the Future",
   editor    = "Smith, Ryan E and Quale, John D",
@@ -63,6 +201,680 @@
                Jacqui;AEC;Book (physical)",
   isbn      =  9781848222182,
   language  = "en"
+}
+
+@ARTICLE{Yang2023-qm,
+  title     = "Where did the workers go? Construction jobs are plentiful, but
+               workers are scarce",
+  author    = "Yang, Mary",
+  journal   = "NPR",
+  publisher = "NPR",
+  abstract  = "Biden administration stimulus money pledged billions in funding
+               for public works projects across the U.S. But contractors say
+               they can't find enough workers to fix all the roads and bridges.",
+  month     =  "6~" # apr,
+  year      =  2023,
+  url       = "https://www.npr.org/2023/04/06/1158576556/where-did-the-workers-go-construction-jobs-are-plentiful-but-workers-are-scarce",
+  keywords  = "3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+               Git;Readwise Reader;Website;Labor;Statistics;\_Mark Up;AEC"
+}
+
+@ARTICLE{Yurkevich2021-mu,
+  title    = "America desperately needs 1 million more construction workers",
+  author   = "Yurkevich, Vanessa",
+  journal  = "CNN",
+  edition  = "CNN Business",
+  abstract = "Matthew Messer hauls solar panels on the roof of a home in Long
+              Island, New York, hoisting them one by one in the 100-degree June
+              heat. Messer is the owner of New York Solar Maintenance, but these
+              days he's working right alongside his lead technician seven days a
+              week as business booms.",
+  month    =  "8~" # jul,
+  year     =  2021,
+  url      = "https://www.cnn.com/2021/07/08/economy/construction-worker-shortage/index.html",
+  keywords = "2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC",
+  language = "en"
+}
+
+@MISC{Lidelow2023-sm,
+  title        = "Factory of the Future [Keynote address]",
+  author       = "Lidelöw, Helena",
+  abstract     = "The keynote speech by Dr. Helene Lidelöw, CTO of Volumetric
+                  Building Companies, at the Industrialized Construction Forum
+                  2023, focuses on the importance of collaboration, production
+                  strategy, platform development, market alignment, and
+                  digitalization in the construction industry. Dr. Lidelöw
+                  emphasizes the need for collective action and collaboration to
+                  drive progress and achieve common goals. She shares insights
+                  on standardized products, platform development, and successful
+                  modular factories that utilize automation and standardization
+                  to increase productivity. Additionally, she highlights the
+                  significance of market alignment and digital tools in
+                  improving precision and efficiency in production processes.
+                  This keynote speech offers valuable insights for driving
+                  innovation and success in the industrialized construction
+                  industry.",
+  month        =  "7~" # feb,
+  year         =  2023,
+  url          = "https://cife.stanford.edu/events/industrialized-construction-forum-2023",
+  howpublished = "Industrialized Construction Forum 2023",
+  keywords     = "Construction 4.0;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
+                  Cited Lit for Jacqui;\_BibTex to MD Git;AEC"
+}
+
+@MISC{Dubner2023-jy,
+  title       = "Why Is It So Hard (and Expensive) to Build Anything in America?",
+  author      = "Dubner, Stephen J",
+  affiliation = "Renbud Radio, LLC",
+  publisher   = "Freakonomics Radio",
+  number      =  566,
+  series      = "Freakonomics Radio",
+  month       =  "22~" # nov,
+  year        =  2023,
+  url         = "https://freakonomics.com/podcast/why-is-it-so-hard-and-expensive-to-build-anything-in-america/",
+  keywords    = "Freakonomics Radio;AEC Cited Lit for
+                 Jacqui;AEC;Economics;Podcast;\_Cataloged;\_In ClickUp;\_Mark Up"
+}
+
+@MISC{Bureau_of_Labor_Statistics2021-ge,
+  title       = "Unemployment Level – Construction (2000-2021)",
+  author      = "{Bureau of Labor Statistics}",
+  affiliation = "Bureau of Labor Statistics",
+  publisher   = "United States Department of Labor",
+  year        =  2021,
+  url         = "https://beta.bls.gov/dataViewer/view/timeseries/LNU03034450",
+  note        = "Title of the publication associated with this dataset: Labor
+                 Force Statistics from the Current Population Survey",
+  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
+                 Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
+                 2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
+                 MD Git;Cited for Frontiers;AEC;Statistics"
+}
+
+@MISC{Highfield2019-cp,
+  title        = "Future of Safety Training",
+  author       = "Highfield, Travis",
+  booktitle    = "Kennesaw State University",
+  abstract     = "Seeking to enhance its existing safety material, leading
+                  architecture, engineering and construction firm Haskell has
+                  partnered with Kennesaw State University’s College of
+                  Computing and Software Engineering on developing an innovative
+                  virtual reality training aid. The project, known as the Hazard
+                  Elimination/Risk Oversight (HERO) program, is an immersive
+                  simulation that teleports users into a virtual construction
+                  site riddled with potential hazards in an effort to reinforce
+                  safety training among its employees.",
+  month        =  "12~" # sep,
+  year         =  2019,
+  howpublished = "\url{https://news.kennesaw.edu/stories/2019/computing-construction-vr-haskell.php}",
+  note         = "Accessed: 2022-4-21",
+  keywords     = "2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+                  Git;AEC;\_XR \& MR;Website",
+  language     = "en"
+}
+
+@TECHREPORT{USG_Corporation2019-me,
+  title       = "{Q4} 2019 Commercial Construction Index",
+  author      = "{USG Corporation} and {United States Chamber of Commerce} and
+                 {Dodge Data \& Analytics}",
+  institution = "USG Corporation",
+  month       =  dec,
+  year        =  2019,
+  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Data
+                 Stats Figures;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC"
+}
+
+@TECHREPORT{Acg2019-gi,
+  title       = "Eighty Percent Of Contractors Report Difficulty Finding
+                 Qualified Craft Workers To Hire As Firms Give Low Marks To
+                 Quality Of New Worker Pipeline",
+  author      = "{ACG}",
+  institution = "Associated General Contractors of America",
+  month       =  aug,
+  year        =  2019,
+  url         = "https://www.agc.org/news/2019/08/27/eighty-percent-contractors-report-difficulty-finding-qualified-craft-workers-hire-0",
+  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
+                 Frontiers;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC"
+}
+
+@TECHREPORT{Miller2020-fp,
+  title       = "Fine Margins: Delivering Financial Sustainability in {UK}
+                 Construction",
+  author      = "Miller, T",
+  institution = "Confederation of British Industry",
+  month       =  feb,
+  year        =  2020,
+  url         = "https://www.cbi.org.uk/media/4121/fine-margins-february-2020-cbi.pdf",
+  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
+                 Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;AEC Cited Lit
+                 for Jacqui;Cited for Frontiers;AEC"
+}
+
+@TECHREPORT{Barua2020-br,
+  title    = "The Construction Workforce: Growing Again, but Not Changing Much",
+  author   = "Barua, A",
+  month    =  feb,
+  year     =  2020,
+  url      = "https://www2.deloitte.com/us/en/insights/economy/spotlight/economics-insights-analysis-02-2020.html",
+  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
+              [2022];2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;Cited for
+              Frontiers;AEC"
+}
+
+@INPROCEEDINGS{Chini1999-tj,
+  title     = "Causes of the construction skilled labor shortage and proposed
+               solutions",
+  author    = "Chini, Abdol R and Brown, Brisbane H and Drummond, Eric G",
+  booktitle = "ASC Proceedings of the 35th Annual Conference",
+  publisher = "ascpro0.ascweb.org",
+  pages     = "187--196",
+  abstract  = "… potentially greater supply of individuals for the construction
+               work force. Yet, there … construction industry over the next two
+               decades. This paper examines the causes of the labor shortage …",
+  year      =  1999,
+  url       = "http://ascpro0.ascweb.org/archives/1999/chini99.htm",
+  keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
+               Cited Lit for Jacqui;\_BibTex to MD Git;Labor;\_Mark Up;Cited for
+               Frontiers;AEC;Website"
+}
+
+@MISC{United_Brotherhood_of_Carpenters_UBC2014-vq,
+  title        = "Math for the Trades",
+  author       = "{United Brotherhood of Carpenters (UBC)}",
+  booktitle    = "KML Carpenters Training Fund",
+  publisher    = "Keystone Mountain Lakes Carpenters Training Fund",
+  abstract     = "Carpenters must have a",
+  month        =  "26~" # jun,
+  year         =  2014,
+  howpublished = "\url{https://www.kmltf.org/math-for-the-trades/}",
+  note         = "Accessed: --",
+  keywords     = "2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC;Cited for
+                  Frontiers;\_In Notion;Training",
+  language     = "en"
+}
+
+@INCOLLECTION{Ahmed2016-sy,
+  title     = "Getting Ready for Your Research: Setting the Scene",
+  author    = "Ahmed, Vian and Opoku, Alex",
+  editor    = "Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan",
+  booktitle = "Research Methodology in the Built Environment",
+  publisher = "Routledge",
+  edition   = "1st Edition",
+  pages     = "23--33",
+  month     =  "10~" # mar,
+  year      =  2016,
+  url       = "http://dx.doi.org/10.4324/9781315725529-2",
+  keywords  = "Research Methodology in the Built Environment: A Selection of
+               Case Studies;Reviewed on Theory;2\_Upgrade MAY 2023;EPubs
+               Books;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+               Git;AEC;Research Methods;UCL;ePub;\_Mark Up;\_In ClickUp",
+  doi       = "10.4324/9781315725529-2",
+  isbn      =  9781317534259
+}
+
+@BOOK{Weber-Lewerenz2022-ow,
+  title     = "Accents of Added Value in Construction 4.0: Ethical Observations
+               in Dealing With Digitization and {AI}",
+  author    = "Weber-Lewerenz, Bianca Christina",
+  publisher = "Springer Nature",
+  abstract  = "The book wants to do justice to the complexity surrounding the
+               Digital Transformation and AI in the Construction Industry. User
+               practice experiences show how digital change can be shaped
+               sensibly and constructively, what kind of methods and
+               technologies do exist or can be developed, which fields of
+               application can be explored, by keeping an eye on risks and
+               opportunities.The book works out key factors and core
+               competencies at all levels, which are decisive both for
+               sustainably using innovative technologies and for setting the
+               Seal of Quality of the Construction Industry at home and abroad.",
+  month     =  "17~" # dec,
+  year      =  2022,
+  url       = "https://play.google.com/store/books/details?id=-7KiEAAAQBAJ",
+  keywords  = "Construction 4.0;2\_Upgrade MAY 2023;EPubs Books;AEC Cited Lit
+               for Jacqui;\_In Notion;\_In Readwise;AEC;ePub;\_New Literature",
+  isbn      =  9783658394073,
+  language  = "en"
+}
+
+@INCOLLECTION{Menacere2016-fn,
+  title     = "When More Does Not Mean Better: Selecting a Research Methodology
+               and Methods",
+  author    = "Ménacère, Karim",
+  editor    = "Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan",
+  booktitle = "Research Methodology in the Built Environment",
+  publisher = "Routledge",
+  edition   = "1st Edition",
+  pages     = "34--62",
+  month     =  "10~" # mar,
+  year      =  2016,
+  keywords  = "Research Methodology in the Built Environment: A Selection of
+               Case Studies;Reviewed on Theory;2\_Upgrade MAY 2023;EPubs
+               Books;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Research
+               Methods;UCL;ePub;\_Mark Up;\_In ClickUp",
+  doi       = "10.4324/9781315725529-3",
+  isbn      =  9781317534259
+}
+
+@INCOLLECTION{Weber-Lewerenz2022-zr,
+  title     = "Guest Chapter: The Human in the Centre?! (Christian)—Ethical
+               Reflections on the Anthropological and Ethical Challenges of {AI}",
+  author    = "Weber-Lewerenz, Bianca Christina",
+  editor    = "Weber-Lewerenz, Bianca Christina",
+  booktitle = "Accents of added value in construction 4.0: Ethical observations
+               in dealing with digitization and AI",
+  publisher = "Springer Fachmedien Wiesbaden",
+  address   = "Wiesbaden",
+  pages     = "439--454",
+  abstract  = "“Sophia, do you believe in God?” No little girl should answer
+               this or other questions about her life here, but this question
+               was aimed at a humanoid robot lady. It was developed by Hanson
+               Robotics in Hong Kong and presented at the United Nations on
+               October 11, 2017. On October 25, 2017, Saudi Arabia even granted
+               her citizenship. When she appears at various trade fairs and
+               exhibitions, she can conduct simple, pre-programmed conversations
+               through artificial intelligence (AI). However, questions such as
+               those about her cultural preferences, beliefs, life, love,
+               freedom, and ultimately death remain unanswered.",
+  year      =  2022,
+  url       = "https://doi.org/10.1007/978-3-658-39407-3_13",
+  keywords  = "2\_Upgrade MAY 2023;Construction 4.0;EPubs Books;AEC Cited Lit
+               for Jacqui;\_In Notion;\_In Readwise;AEC;Robots;Technological
+               change;\_New Literature;ePub",
+  doi       = "10.1007/978-3-658-39407-3\_13",
+  isbn      =  9783658394073
+}
+
+@BOOK{Ahmed2016-mt,
+  title     = "Research Methodology in the Built Environment",
+  editor    = "Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan",
+  publisher = "Routledge",
+  edition   = "1st Edition",
+  abstract  = "Built environment students are not always familiar with the range
+               of different research approaches they could be using for their
+               projects. Whether you are undertaking a postgraduate doctoral
+               programme or facing an undergraduate or masters dissertation,
+               this book provides general advice, as well as 13 detailed case
+               studies from 16 universities in 7 countries, to help you get to
+               grips with quantitative and qualitative methods, mixed methods of
+               data collection, action research, and more.",
+  month     =  "10~" # mar,
+  year      =  2016,
+  url       = "http://dx.doi.org/10.4324/9781315725529",
+  keywords  = "Research Methodology in the Built Environment: A Selection of
+               Case Studies;Reviewed on Theory;2\_Upgrade MAY 2023;EPubs
+               Books;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+               Git;\_New Literature;AEC;Research Methods;UCL;ePub;\_In ClickUp",
+  doi       = "10.4324/9781315725529",
+  isbn      =  9781317534259
+}
+
+@BOOK{Ahmed2022-tl,
+  title     = "Validity and Reliability in Built Environment Research: A
+               Selection of Case Studies",
+  author    = "Ahmed, Vian and Opoku, Alex and Olanipekun, Ayokunle and
+               Sutrisna, Monty",
+  publisher = "Routledge",
+  abstract  = "This book aims to guide researchers who are engaged in social
+               science and built environment research through the process of
+               testing the reliability and validity of their research outputs
+               following the application of different methods of data
+               collection. The book presents case studies that emphasize
+               reliability and validity in different examples of qualitative,
+               quantitative and mixed method data sets, as well as covering
+               action research and grounded theory. The reader is guided through
+               case studies that demonstrate: An understanding of the
+               reliability and validity approaches from social science and built
+               environment perspectives in alignment with the relevant research
+               philosophies, approaches and data collection strategies Real
+               research projects that have been conducted by expert researchers
+               on topics such as Lean, BIM, Housing and Sustainability to answer
+               specific or evolving questions in relation to the reliability and
+               validity of research A simple and easy method that students at
+               Masters and PhD levels can relate to in order to adopt a sound
+               reliability and validity approach to their research This book is
+               the essential guide for researchers at undergraduate and
+               postgraduate level who need to understand how to validate the
+               quality of the empirical tests they conduct using different
+               techniques. The book will also be a great asset to supervisors
+               from different backgrounds who need a refresher on this key
+               aspect of the research cycle.",
+  month     =  "25~" # feb,
+  year      =  2022,
+  url       = "https://www.routledge.com/Validity-and-Reliability-in-Built-Environment-Research-A-Selection-of-Case/Ahmed-Opoku-Olanipekun-Sutrisna/p/book/9780367197803",
+  keywords  = "Grounded Theory;EPubs Books;3\_Upgrade OCT 2023;AEC Cited Lit for
+               Jacqui;\_BibTex to MD Git;ePub;AEC;Research Methods;\_New
+               Literature",
+  isbn      =  9780429516375,
+  language  = "en"
+}
+
+@BOOK{Adepoju2022-bj,
+  title     = "Re-skilling Human Resources for Construction 4.0: Implications
+               for Industry, Academia and Government",
+  author    = "Adepoju, Omoseni and Aigbavboa, Clinton and Nwulu, Nnamdi and
+               Onyia, Michael",
+  publisher = "Springer Nature",
+  abstract  = "This book examines the burgeoning revolution in the construction
+               industry known as Construction 4.0, the attendant need for
+               re-skilling human resources, and key stakeholders' roles in
+               developing the required skills for Construction 4.0. It views the
+               lack of 21st-century skills and skills gap in the industry as
+               significant challenges limiting the uptake and implementation of
+               Construction 4.0 technologies, especially in developing
+               countries. In order to determine the skills required, this book
+               examines the critical technologies of Construction 4.0, such as
+               building information modelling (BIM), robotic construction, 3D
+               printing and drones, which have transformed the construction
+               industry, thereby creating digital, intelligent and sustainable
+               construction solutions. Furthermore, the book considers the
+               benefits, risks and relevant skills required to implement
+               Construction 4.0 technologies.",
+  year      =  2022,
+  url       = "https://link.springer.com/book/10.1007/978-3-030-85973-2",
+  keywords  = "Construction 4.0;Notion Catalogued;UCL Poster Q1 2023;2\_Upgrade
+               MAY 2023;00\_TO READ;EPubs Books;3\_Upgrade OCT 2023;AEC Cited
+               Lit for Jacqui;\_BibTex to MD Git;AEC;ePub;\_Mark Up;\_Cataloged",
+  isbn      =  9783030859732,
+  language  = "en"
+}
+
+@MISC{Smith2016-mk,
+  title        = "Off-Site and Modular Construction Explained",
+  author       = "Smith, Ryan E",
+  affiliation  = "National Institute of Building Sciences",
+  booktitle    = "Whole Building' Design Guide, National Institute of Building
+                  Sciences",
+  publisher    = "National Institute of Building Sciences",
+  month        =  "9~" # aug,
+  year         =  2016,
+  howpublished = "\url{https://www.wbdg.org/resources/site-and-modular-construction-explained}",
+  note         = "Accessed: 2023-2-8",
+  keywords     = "Construction 4.0;Notion Catalogued;2\_Upgrade MAY 2023;AEC
+                  Cited Lit for Jacqui;\_BibTex to MD
+                  Git;\_Cataloged;AEC;Readwise Reader;Website",
+  language     = "en"
+}
+
+@BOOK{Aitchison2016-ok,
+  title     = "The Architecture of Industry: Changing Paradigms in Industrial
+               Building and Planning",
+  author    = "Aitchison, Mathew",
+  publisher = "Routledge",
+  abstract  = "From the Rust Belt to Silicon Valley, the intersection between
+               architecture and industry has provided a rich and evolving source
+               for historians of architecture. In a historical context,
+               industrial architecture evokes the smoking factories of the
+               nineteenth century or Fordist production complexes of the
+               twentieth century. This book documents the changing nature of
+               industrial building and planning from the end of the nineteenth
+               century to the beginning of the twenty-first century. Drawing on
+               research from the United States, Europe and Australia, this
+               collection of essays highlights key moments in industrial
+               architecture and planning representative of the wider paradigms
+               in the field. Areas of analysis include industrial production,
+               factories, hydroelectricity, aerospace, logistics, finance,
+               scientific research and mining. The selected case studies serve
+               to highlight architectural and planning innovations in industry
+               and their contributions to wider cultural and societal currents.
+               This richly illustrated collection will be of interest for a wide
+               range of built environment studies, incorporating findings from
+               both historical and theoretical scholarship and design research.",
+  month     =  "16~" # mar,
+  year      =  2016,
+  url       = "https://play.google.com/store/books/details?id=qeq_CwAAQBAJ",
+  keywords  = "Construction 4.0;2\_Upgrade MAY 2023;EPubs Books;AEC Cited Lit
+               for Jacqui;\_In Notion;\_In Readwise;AEC;ePub;\_New Literature",
+  isbn      =  9781317044802,
+  language  = "en"
+}
+
+@ARTICLE{Gagg2014-gf,
+  title    = "Cement and concrete as an engineering material: An historic
+              appraisal and case study analysis",
+  author   = "Gagg, Colin R",
+  journal  = "Engineering failure analysis",
+  volume   =  40,
+  pages    = "114--140",
+  abstract = "Today, second only to water, concrete is the most consumed
+              material, with three tonnes per year used for every person in the
+              world. Twice as much concrete is used in construction as all other
+              building materials combined. There is little doubt that concrete
+              will remain in use as a construction material well into the
+              future. However, with such extensive use of the material,
+              discovery of any shortcoming or problem associated with concrete
+              or reinforced concrete structures will become a matter of
+              considerable public concern – both from a safety perspective and
+              associated costs of rectification. Accordingly, this paper will
+              initially review the historic development of cements and concrete
+              and will then focus on the mechanical response of concrete and
+              reinforced concrete to its working environment. At appropriate
+              points within the narrative, case study input will be used to
+              illustrate or highlight principal themes.",
+  month    =  "1~" # may,
+  year     =  2014,
+  url      = "https://www.sciencedirect.com/science/article/pii/S1350630714000387",
+  keywords = "Cement and concrete; Historic development; Mechanical response;
+              Structural failures; Failure case studies;Construction
+              4.0;2\_Upgrade MAY 2023;Journal Articles;AEC Cited Lit for
+              Jacqui;AEC;\_In Notion;\_In Readwise;\_New Literature",
+  doi      = "10.1016/j.engfailanal.2014.02.004",
+  issn     = "1350-6307"
+}
+
+@MISC{HUD_User2022-lt,
+  title        = "Operation breakthrough: Striving through struggles for success
+                  by teaming",
+  author       = "{HUD User}",
+  booktitle    = "U.S. Department of Housing and Urban Development's (HUD's)
+                  Office of Policy Development and Research (PD\&R)",
+  month        =  "3~" # jun,
+  year         =  2022,
+  howpublished = "\url{https://www.huduser.gov/portal/Operation-Breakthrough.html}",
+  note         = "Accessed: 2023-2-22",
+  keywords     = "Construction 4.0;2\_Upgrade MAY 2023;Government Report;AEC
+                  Cited Lit for Jacqui;AEC;Website;Report",
+  language     = "en"
+}
+
+@INCOLLECTION{Sutrisna2016-vt,
+  title     = "The Application of Grounded Theory Methodology in Built
+               Environment Research",
+  author    = "Sutrisna, M and Setiawan, W",
+  editor    = "Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan",
+  booktitle = "Research Methodology in the Built Environment",
+  abstract  = "Semantic Scholar extracted view of ``The application of grounded
+               theory methodology in built environment research'' by M. Sutrisna
+               et al.",
+  month     =  "10~" # mar,
+  year      =  2016,
+  url       = "https://www.semanticscholar.org/paper/4fed843e98fb89c49566cad5bea3aefe9a801fae",
+  keywords  = "Research Methodology in the Built Environment: A Selection of
+               Case Studies;2\_Upgrade MAY 2023;Grounded Theory;EPubs Books;AEC
+               Cited Lit for Jacqui;\_BibTex to MD Git;\_Mark Up;AEC;ePub;\_In
+               ClickUp",
+  doi       = "10.4324/9781315725529-27",
+  language  = "en"
+}
+
+@MISC{Morby2022-bu,
+  title        = "Construction Forecast to Fall by Nearly 4\% Next Year",
+  author       = "Morby, Aaron",
+  booktitle    = "Construction Enquirer",
+  abstract     = "Crystal ball gazers sharply downgrade construction output
+                  forecast. Construction output is now expected to fall by 3.9\%
+                  in 2023 after economists at the Construction Products
+                  Association sharply downgraded forecasts",
+  month        =  "7~" # nov,
+  year         =  2022,
+  howpublished = "\url{https://www.constructionenquirer.com/2022/11/07/construction-forecast-to-fall-by-nearly-4-next-year/}",
+  note         = "Accessed: 2023-2-23",
+  keywords     = "2\_Upgrade MAY 2023;Data Stats Figures;AEC Cited Lit for
+                  Jacqui;Website;Statistics;AEC",
+  language     = "en"
+}
+
+@INCOLLECTION{Aitchison2017-ps,
+  title     = "Prefabricated Housing in Architectural Culture",
+  author    = "Aitchison, Mathew and Macarthur, John",
+  editor    = "Smith, Ryan E and Quale, John D",
+  booktitle = "Offsite Architecture: Constructing the Future",
+  publisher = "Routledge",
+  address   = "New York : Routledge, 2016.",
+  pages     = "77--89",
+  abstract  = "Architects have long been fascinated by the promise of
+               prefabricated and modular building, in particular housing, and
+               even more so the individual detached house. The ‘prefab’ house
+               combines the promise of industrialised building with the dream of
+               a popular mass market for architecture, and it has exercised a
+               magnetism over architectural culture which is as strong today as
+               it was at any point in the past. The interest originated in the
+               mid-nineteenth century, but achieved a strong uptake in the early
+               to mid-twentieth century, and has continued in a cyclical pattern
+               up to the present day. This chapter describes this fascination
+               with the prefab house and discusses some of the complications
+               that have plagued its translation into real outcomes. As the
+               history of twentieth-century architect-led prefabricated housing
+               illustrates, architecture has tended to co-opt industrial
+               advances to support existing ideologies.",
+  month     =  "16~" # mar,
+  year      =  2017,
+  url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-5",
+  keywords  = "Offsite Architecture: Constructing the Future;AEC Cited Lit for
+               Jacqui;\_In ClickUp;\_In Notion;\_In Readwise;AEC;Cross Ref
+               Chapter;ePub",
+  doi       = "10.4324/9781315743332-5",
+  isbn      =  9781315743332
+}
+
+@INCOLLECTION{Smith2017-ff,
+  title     = "Offsite Construction in Education: A Survey of Prefabrication in
+               Design and Construction Academia",
+  author    = "Smith, Ryan E and Elliott, Jonathan W and Grosskopf, Kevin",
+  editor    = "Smith, Ryan E and Quale, John D",
+  booktitle = "Offsite Architecture: Constructing the Future",
+  publisher = "Routledge",
+  address   = "New York : Routledge, 2016.",
+  pages     = "128--138",
+  abstract  = "During the fall of 2014, the National Institute of Building
+               Sciences Off-Site Construction Council conducted a survey in
+               partnership member schools of the Association of Collegiate
+               Schools of Architecture and the Associated Schools of
+               Construction. The online survey was intended to determine the
+               current state of teaching and research on the emerging practice
+               of offsite prefabrication in the design and construction sector.
+               The chapter focuses on the findings of the survey to illuminate
+               the difference between what is being practiced within the
+               construction sector and what is being learned and researched at
+               higher-education institutions. Bridging the gap between education
+               and industry is important in order to create knowledge pathways
+               between what is being researched and taught and what is being
+               practiced. Currently, research agendas on both sides of education
+               and industry are mismatched, with schools focusing on product
+               R\&D and industry needing continuing professional development and
+               training as well as supply chain management support.",
+  month     =  "16~" # mar,
+  year      =  2017,
+  url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-8",
+  keywords  = "Offsite Architecture: Constructing the Future;3\_Upgrade OCT
+               2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+               ClickUp;\_In Notion;\_In Readwise;Cross Ref Chapter;ePub",
+  doi       = "10.4324/9781315743332-8",
+  isbn      =  9781315743332
+}
+
+@INCOLLECTION{Rupnik2017-gx,
+  title     = "Mapping the Modular Industry",
+  author    = "Rupnik, Ivan",
+  editor    = "Smith, Ryan E and Quale, John D",
+  booktitle = "Offsite Architecture: Constructing the Future",
+  publisher = "Routledge",
+  address   = "New York : Routledge, 2016.",
+  pages     = "55--76",
+  abstract  = "A comparable scale to the North American modular industry was
+               achieved in the Soviet Union during the 1960s, with a number of
+               systems consisting of volumetric components of reinforced
+               concrete, but this modular system has never achieved the
+               gargantuan scale of application of Soviet panelized systems. As a
+               housing delivery system, the modular industry usually works
+               directly with small and medium-sized builders, particularly in
+               the Northeast, offering conventional light wood framing and sheet
+               rock hanging, as well as fully prefabricated assemblies, such as
+               windows and doors customized to each order. Connect Homes, a
+               modular housing delivery system developed by two architects,
+               Gordon Stott and Jared Levy, is deeply informed by the earlier
+               experiences of the system’s authors’ work at Marmol Radziner, as
+               well as a critical examination of the logics of the modular
+               industry and the intermodal shipping container. In the Northeast,
+               the modular industry has acknowledged the fact that growth will
+               occur primarily in the delivery of multi-unit housing.",
+  month     =  "16~" # mar,
+  year      =  2017,
+  url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-4",
+  keywords  = "Offsite Architecture: Constructing the Future;AEC Cited Lit for
+               Jacqui;\_In ClickUp;\_In Notion;\_In Readwise;AEC;Cross Ref
+               Chapter;ePub",
+  doi       = "10.4324/9781315743332-4",
+  isbn      =  9781315743332
+}
+
+@INCOLLECTION{Hall2022-de,
+  title     = "New Business Models for Industrialized Construction",
+  author    = "Hall, Daniel M and Lessing, Jerker and Whyte, Jennifer",
+  editor    = "Bolpagni, Marzia and Gavina, Rui and Ribeiro, Diogo",
+  booktitle = "Industry 4.0 for the Built Environment: Methodologies,
+               Technologies and Skills",
+  publisher = "Springer International Publishing",
+  address   = "Cham",
+  pages     = "297--314",
+  abstract  = "The past few years have seen new entrants into the construction
+               sector backed with unprecedented levels of funding from venture
+               capital funds or other large investment firms. These entrants
+               seek to leverage industry 4.0 principles for the digitalization
+               and industrialization of construction. In addition to new
+               technologies, these firms also bring new business models that
+               depart from the project-based tendering system found in
+               traditional construction. The first new business model is
+               vertical integration. These firms are structured as integrated
+               hierarchical firms, keeping control of product architecture and
+               processes in-house. These firms control production by developing
+               their own off-site factories. The second new business model is
+               digital systems integration. These firms leverage an integrated
+               cloud-based product configurator to enable mass customization.
+               Using principles of capital-light industry 4.0 supply chains,
+               digital system integrators can manufacture parts from periphery
+               supply chain partners suppliers, including new sectors such as
+               automotive, aerospace, manufacturing or industrial. The third new
+               business model is the transformation of an existing project-based
+               business toward industrialized construction through the creation
+               of a spinoff factories. The chapter includes examples of the
+               three business models and concludes with a discussion of how new
+               business models may be catalysts for potential disruption of the
+               established construction sector.",
+  year      =  2022,
+  url       = "https://doi.org/10.1007/978-3-030-82430-3_13",
+  keywords  = "Industry 4.0 for the Built Environment;EPubs Books;3\_Upgrade OCT
+               2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;ePub",
+  doi       = "10.1007/978-3-030-82430-3\_13",
+  isbn      =  9783030824303
+}
+
+@MISC{Stahl2023-dx,
+  title     = "Can {3D}-Printed Homes Withstand a Changing Climate?",
+  author    = "Stahl, Lesley",
+  booktitle = "60 Minutes",
+  publisher = "CBS Broadcasting Inc.",
+  address   = "United States",
+  number    =  4,
+  abstract  = "3D printing startup co-founder Jason Ballard explains how he
+               thinks 3D-printed houses will transform construction jobs and
+               resist the effects of climate change.",
+  series    =  56,
+  month     =  "8~" # oct,
+  year      =  2023,
+  url       = "https://www.youtube.com/watch?v=kOZxvpVWBJ4",
+  keywords  = "60 Minutes; CBS News; 3D-printed houses; climate
+               change;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
+               MD Git;YouTube;AEC"
 }
 
 @TECHREPORT{Davies2018-ai,
@@ -216,22 +1028,6 @@
   language    = "en"
 }
 
-@ARTICLE{Yang2023-qm,
-  title     = "Where did the workers go? Construction jobs are plentiful, but
-               workers are scarce",
-  author    = "Yang, Mary",
-  journal   = "NPR",
-  publisher = "NPR",
-  abstract  = "Biden administration stimulus money pledged billions in funding
-               for public works projects across the U.S. But contractors say
-               they can't find enough workers to fix all the roads and bridges.",
-  month     =  "6~" # apr,
-  year      =  2023,
-  url       = "https://www.npr.org/2023/04/06/1158576556/where-did-the-workers-go-construction-jobs-are-plentiful-but-workers-are-scarce",
-  keywords  = "3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-               Git;Readwise Reader;Website;Labor;Statistics;\_Mark Up;AEC"
-}
-
 @MISC{Tucker1999-ml,
   title     = "Key Workforce Challenges Facing the American Construction
                Industry: An Interim Assessment",
@@ -254,23 +1050,6 @@
   keywords  = "3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                Git;\_In Notion;\_In Readwise;AEC;Labor;\_New Literature",
   doi       = "10.26153/TSW/41160"
-}
-
-@ARTICLE{Yurkevich2021-mu,
-  title    = "America desperately needs 1 million more construction workers",
-  author   = "Yurkevich, Vanessa",
-  journal  = "CNN",
-  edition  = "CNN Business",
-  abstract = "Matthew Messer hauls solar panels on the roof of a home in Long
-              Island, New York, hoisting them one by one in the 100-degree June
-              heat. Messer is the owner of New York Solar Maintenance, but these
-              days he's working right alongside his lead technician seven days a
-              week as business booms.",
-  month    =  "8~" # jul,
-  year     =  2021,
-  url      = "https://www.cnn.com/2021/07/08/economy/construction-worker-shortage/index.html",
-  keywords = "2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC",
-  language = "en"
 }
 
 @INCOLLECTION{Smith2019-lv,
@@ -324,32 +1103,6 @@
                Methodology;Research Methods",
   doi       = "10.1201/9781315147321-14",
   isbn      =  9781315147321
-}
-
-@MISC{Lidelow2023-sm,
-  title        = "Factory of the Future [Keynote address]",
-  author       = "Lidelöw, Helena",
-  abstract     = "The keynote speech by Dr. Helene Lidelöw, CTO of Volumetric
-                  Building Companies, at the Industrialized Construction Forum
-                  2023, focuses on the importance of collaboration, production
-                  strategy, platform development, market alignment, and
-                  digitalization in the construction industry. Dr. Lidelöw
-                  emphasizes the need for collective action and collaboration to
-                  drive progress and achieve common goals. She shares insights
-                  on standardized products, platform development, and successful
-                  modular factories that utilize automation and standardization
-                  to increase productivity. Additionally, she highlights the
-                  significance of market alignment and digital tools in
-                  improving precision and efficiency in production processes.
-                  This keynote speech offers valuable insights for driving
-                  innovation and success in the industrialized construction
-                  industry.",
-  month        =  "7~" # feb,
-  year         =  2023,
-  url          = "https://cife.stanford.edu/events/industrialized-construction-forum-2023",
-  howpublished = "Industrialized Construction Forum 2023",
-  keywords     = "Construction 4.0;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
-                  Cited Lit for Jacqui;\_BibTex to MD Git;AEC"
 }
 
 @TECHREPORT{Barbosa2017-rj,
@@ -445,20 +1198,6 @@
   issn      = "0144-6193"
 }
 
-@MISC{Dubner2023-jy,
-  title       = "Why Is It So Hard (and Expensive) to Build Anything in America?",
-  author      = "Dubner, Stephen J",
-  affiliation = "Renbud Radio, LLC",
-  publisher   = "Freakonomics Radio",
-  number      =  566,
-  series      = "Freakonomics Radio",
-  month       =  "22~" # nov,
-  year        =  2023,
-  url         = "https://freakonomics.com/podcast/why-is-it-so-hard-and-expensive-to-build-anything-in-america/",
-  keywords    = "Freakonomics Radio;AEC Cited Lit for
-                 Jacqui;AEC;Economics;Podcast;\_Cataloged;\_In ClickUp;\_Mark Up"
-}
-
 @ARTICLE{Whyte2022-my,
   title     = "Making Futures That Matter: Future Making, Online Working and
                Organizing Remotely",
@@ -546,21 +1285,6 @@
   issn      = "0144-6193"
 }
 
-@MISC{Bureau_of_Labor_Statistics2021-ge,
-  title       = "Unemployment Level – Construction (2000-2021)",
-  author      = "{Bureau of Labor Statistics}",
-  affiliation = "Bureau of Labor Statistics",
-  publisher   = "United States Department of Labor",
-  year        =  2021,
-  url         = "https://beta.bls.gov/dataViewer/view/timeseries/LNU03034450",
-  note        = "Title of the publication associated with this dataset: Labor
-                 Force Statistics from the Current Population Survey",
-  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
-                 2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
-                 MD Git;Cited for Frontiers;AEC;Statistics"
-}
-
 @INPROCEEDINGS{Olsen2012-bm,
   title     = "How Industrial Contractors Are Handling Skilled Labor Shortages
                in the United States",
@@ -581,28 +1305,6 @@
   keywords  = "Frontiers [2022];Notion Catalogued;UCL Poster Q1 2023;2\_Upgrade
                MAY 2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
                MD Git;AEC;Labor;\_Mark Up;DONE;\_Cataloged"
-}
-
-@MISC{Highfield2019-cp,
-  title        = "Future of Safety Training",
-  author       = "Highfield, Travis",
-  booktitle    = "Kennesaw State University",
-  abstract     = "Seeking to enhance its existing safety material, leading
-                  architecture, engineering and construction firm Haskell has
-                  partnered with Kennesaw State University’s College of
-                  Computing and Software Engineering on developing an innovative
-                  virtual reality training aid. The project, known as the Hazard
-                  Elimination/Risk Oversight (HERO) program, is an immersive
-                  simulation that teleports users into a virtual construction
-                  site riddled with potential hazards in an effort to reinforce
-                  safety training among its employees.",
-  month        =  "12~" # sep,
-  year         =  2019,
-  howpublished = "\url{https://news.kennesaw.edu/stories/2019/computing-construction-vr-haskell.php}",
-  note         = "Accessed: 2022-4-21",
-  keywords     = "2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;AEC;\_XR \& MR;Website",
-  language     = "en"
 }
 
 @TECHREPORT{Bryer2021-cn,
@@ -631,30 +1333,6 @@
               import [Aug 11];Journal Articles;3\_Upgrade OCT 2023;AEC Cited Lit
               for Jacqui;\_BibTex to MD Git;\_Mark Up;AEC;VET;Workplace Learning",
   doi      = "10.1108/00400910910960722"
-}
-
-@TECHREPORT{USG_Corporation2019-me,
-  title       = "{Q4} 2019 Commercial Construction Index",
-  author      = "{USG Corporation} and {United States Chamber of Commerce} and
-                 {Dodge Data \& Analytics}",
-  institution = "USG Corporation",
-  month       =  dec,
-  year        =  2019,
-  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Data
-                 Stats Figures;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC"
-}
-
-@TECHREPORT{Acg2019-gi,
-  title       = "Eighty Percent Of Contractors Report Difficulty Finding
-                 Qualified Craft Workers To Hire As Firms Give Low Marks To
-                 Quality Of New Worker Pipeline",
-  author      = "{ACG}",
-  institution = "Associated General Contractors of America",
-  month       =  aug,
-  year        =  2019,
-  url         = "https://www.agc.org/news/2019/08/27/eighty-percent-contractors-report-difficulty-finding-qualified-craft-workers-hire-0",
-  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC"
 }
 
 @ARTICLE{Shanbari2019-ig,
@@ -788,19 +1466,6 @@
   issn      = "2156-7069,2156-7077"
 }
 
-@TECHREPORT{Miller2020-fp,
-  title       = "Fine Margins: Delivering Financial Sustainability in {UK}
-                 Construction",
-  author      = "Miller, T",
-  institution = "Confederation of British Industry",
-  month       =  feb,
-  year        =  2020,
-  url         = "https://www.cbi.org.uk/media/4121/fine-margins-february-2020-cbi.pdf",
-  keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;AEC Cited Lit
-                 for Jacqui;Cited for Frontiers;AEC"
-}
-
 @TECHREPORT{Green2020-gb,
   title       = "The Real Face of Construction 2020: Socio-economic Analysis of
                  the True Value of the Built Environment",
@@ -824,17 +1489,6 @@
   keywords    = "2\_Upgrade MAY 2023;Construction 4.0;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD Git;\_In Notion;\_In
                  Readwise;\_New Literature"
-}
-
-@TECHREPORT{Barua2020-br,
-  title    = "The Construction Workforce: Growing Again, but Not Changing Much",
-  author   = "Barua, A",
-  month    =  feb,
-  year     =  2020,
-  url      = "https://www2.deloitte.com/us/en/insights/economy/spotlight/economics-insights-analysis-02-2020.html",
-  keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
-              [2022];2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;Cited for
-              Frontiers;AEC"
 }
 
 @ARTICLE{Kim2020-fo,
@@ -923,23 +1577,6 @@
                Frontiers",
   doi       = "10.1061/(ASCE)0742-597X(2008)24:4(217)",
   issn      = "0742-597X"
-}
-
-@INPROCEEDINGS{Chini1999-tj,
-  title     = "Causes of the construction skilled labor shortage and proposed
-               solutions",
-  author    = "Chini, Abdol R and Brown, Brisbane H and Drummond, Eric G",
-  booktitle = "ASC Proceedings of the 35th Annual Conference",
-  publisher = "ascpro0.ascweb.org",
-  pages     = "187--196",
-  abstract  = "… potentially greater supply of individuals for the construction
-               work force. Yet, there … construction industry over the next two
-               decades. This paper examines the causes of the labor shortage …",
-  year      =  1999,
-  url       = "http://ascpro0.ascweb.org/archives/1999/chini99.htm",
-  keywords  = "Frontiers [2022];2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
-               Cited Lit for Jacqui;\_BibTex to MD Git;Labor;\_Mark Up;Cited for
-               Frontiers;AEC;Website"
 }
 
 @ARTICLE{Cuendet2014-vs,
@@ -1146,21 +1783,6 @@
                  Cited Lit for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC"
 }
 
-@MISC{United_Brotherhood_of_Carpenters_UBC2014-vq,
-  title        = "Math for the Trades",
-  author       = "{United Brotherhood of Carpenters (UBC)}",
-  booktitle    = "KML Carpenters Training Fund",
-  publisher    = "Keystone Mountain Lakes Carpenters Training Fund",
-  abstract     = "Carpenters must have a",
-  month        =  "26~" # jun,
-  year         =  2014,
-  howpublished = "\url{https://www.kmltf.org/math-for-the-trades/}",
-  note         = "Accessed: --",
-  keywords     = "2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC;Cited for
-                  Frontiers;\_In Notion;Training",
-  language     = "en"
-}
-
 @ARTICLE{Jadallah2021-yq,
   title     = "Educational Theory-integrated Construction Industry Training:
                State-of-the-Art Review",
@@ -1207,25 +1829,6 @@
   issn      = "2297-3362"
 }
 
-@INCOLLECTION{Ahmed2016-sy,
-  title     = "Getting Ready for Your Research: Setting the Scene",
-  author    = "Ahmed, Vian and Opoku, Alex",
-  editor    = "Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan",
-  booktitle = "Research Methodology in the Built Environment",
-  publisher = "Routledge",
-  edition   = "1st Edition",
-  pages     = "23--33",
-  month     =  "10~" # mar,
-  year      =  2016,
-  url       = "http://dx.doi.org/10.4324/9781315725529-2",
-  keywords  = "Research Methodology in the Built Environment: A Selection of
-               Case Studies;Reviewed on Theory;2\_Upgrade MAY 2023;EPubs
-               Books;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-               Git;AEC;Research Methods;UCL;ePub;\_Mark Up;\_In ClickUp",
-  doi       = "10.4324/9781315725529-2",
-  isbn      =  9781317534259
-}
-
 @ARTICLE{Glass2022-ms,
   title     = "Transforming Construction: the Multi-scale Challenges of Changing
                and Innovating in Construction",
@@ -1243,30 +1846,6 @@
                ClickUp;\_Cataloged",
   doi       = "10.1080/01446193.2022.2141432",
   issn      = "0144-6193"
-}
-
-@BOOK{Weber-Lewerenz2022-ow,
-  title     = "Accents of Added Value in Construction 4.0: Ethical Observations
-               in Dealing With Digitization and {AI}",
-  author    = "Weber-Lewerenz, Bianca Christina",
-  publisher = "Springer Nature",
-  abstract  = "The book wants to do justice to the complexity surrounding the
-               Digital Transformation and AI in the Construction Industry. User
-               practice experiences show how digital change can be shaped
-               sensibly and constructively, what kind of methods and
-               technologies do exist or can be developed, which fields of
-               application can be explored, by keeping an eye on risks and
-               opportunities.The book works out key factors and core
-               competencies at all levels, which are decisive both for
-               sustainably using innovative technologies and for setting the
-               Seal of Quality of the Construction Industry at home and abroad.",
-  month     =  "17~" # dec,
-  year      =  2022,
-  url       = "https://play.google.com/store/books/details?id=-7KiEAAAQBAJ",
-  keywords  = "Construction 4.0;2\_Upgrade MAY 2023;EPubs Books;AEC Cited Lit
-               for Jacqui;\_In Notion;\_In Readwise;AEC;ePub;\_New Literature",
-  isbn      =  9783658394073,
-  language  = "en"
 }
 
 @TECHREPORT{Meisels2022-rj,
@@ -1419,39 +1998,6 @@
   issn      = "2297-3362"
 }
 
-@PHDTHESIS{Crayne2021-jq,
-  title    = "Analyzing the Causes of Labor Shortage in the Commercial Carpentry
-              Trades in the San Francisco Bay Area",
-  author   = "Crayne, Jack",
-  abstract = "Skilled labor is vital to the success of any construction project,
-              and no contractor would be able to operate without the skilled
-              laborers that they employ. The construction industry has been
-              subject to a shortage of skilled labor for the last two decades
-              for many reasons, including the poor image of construction workers
-              among the public, inadequate training measures, and an aging
-              workforce. Reviewing the literature on the matter shows that the
-              leading cause of shortage is low pay and increasing age of the
-              workforce overall, while the demand for labor grows at a faster
-              rate than the supply of labor grows. Poor worker retention
-              practices were also identified as a cause for shortage and a
-              reason for workers leaving the industry, and proper retention
-              tactics are assessed, including monetary and non-monetary
-              considerations for workers in order to foster a better
-              employer-employee relationship. Recruiting practices among labor
-              unions and contractors are also assessed through interviews and
-              research, with the results suggesting that a greater emphasis
-              should be put on improving the image of construction workers in
-              the public eye, increasing the prestige of a job in construction
-              and leading to increased participation in the construction
-              industry among young people.",
-  year     =  2021,
-  url      = "https://digitalcommons.calpoly.edu/cmsp/456/",
-  keywords = "2\_Upgrade MAY 2023;Construction 4.0;00\_TO READ;3\_Upgrade OCT
-              2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Labor;\_In
-              Notion;\_In Readwise;\_New Literature;\_In ClickUp",
-  school   = "California Polytechnic State University, San Luis Obispo"
-}
-
 @ARTICLE{Goulding2012-op,
   title     = "Construction industry offsite production: A virtual reality
                interactive training environment prototype",
@@ -1519,25 +2065,6 @@
   language  = "en"
 }
 
-@INCOLLECTION{Menacere2016-fn,
-  title     = "When More Does Not Mean Better: Selecting a Research Methodology
-               and Methods",
-  author    = "Ménacère, Karim",
-  editor    = "Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan",
-  booktitle = "Research Methodology in the Built Environment",
-  publisher = "Routledge",
-  edition   = "1st Edition",
-  pages     = "34--62",
-  month     =  "10~" # mar,
-  year      =  2016,
-  keywords  = "Research Methodology in the Built Environment: A Selection of
-               Case Studies;Reviewed on Theory;2\_Upgrade MAY 2023;EPubs
-               Books;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Research
-               Methods;UCL;ePub;\_Mark Up;\_In ClickUp",
-  doi       = "10.4324/9781315725529-3",
-  isbn      =  9781317534259
-}
-
 @INCOLLECTION{Casini2022-zx,
   title     = "Chapter 1 - Toward a new building era",
   author    = "Casini, Marco",
@@ -1587,59 +2114,6 @@
                Notion;\_In Readwise;Essential;\_In ClickUp;Economics",
   doi       = "10.1016/B978-0-12-821797-9.00011-8",
   isbn      =  9780128217979
-}
-
-@INCOLLECTION{Weber-Lewerenz2022-zr,
-  title     = "Guest Chapter: The Human in the Centre?! (Christian)—Ethical
-               Reflections on the Anthropological and Ethical Challenges of {AI}",
-  author    = "Weber-Lewerenz, Bianca Christina",
-  editor    = "Weber-Lewerenz, Bianca Christina",
-  booktitle = "Accents of added value in construction 4.0: Ethical observations
-               in dealing with digitization and AI",
-  publisher = "Springer Fachmedien Wiesbaden",
-  address   = "Wiesbaden",
-  pages     = "439--454",
-  abstract  = "“Sophia, do you believe in God?” No little girl should answer
-               this or other questions about her life here, but this question
-               was aimed at a humanoid robot lady. It was developed by Hanson
-               Robotics in Hong Kong and presented at the United Nations on
-               October 11, 2017. On October 25, 2017, Saudi Arabia even granted
-               her citizenship. When she appears at various trade fairs and
-               exhibitions, she can conduct simple, pre-programmed conversations
-               through artificial intelligence (AI). However, questions such as
-               those about her cultural preferences, beliefs, life, love,
-               freedom, and ultimately death remain unanswered.",
-  year      =  2022,
-  url       = "https://doi.org/10.1007/978-3-658-39407-3_13",
-  keywords  = "2\_Upgrade MAY 2023;Construction 4.0;EPubs Books;AEC Cited Lit
-               for Jacqui;\_In Notion;\_In Readwise;AEC;Robots;Technological
-               change;\_New Literature;ePub",
-  doi       = "10.1007/978-3-658-39407-3\_13",
-  isbn      =  9783658394073
-}
-
-@BOOK{Ahmed2016-mt,
-  title     = "Research Methodology in the Built Environment",
-  editor    = "Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan",
-  publisher = "Routledge",
-  edition   = "1st Edition",
-  abstract  = "Built environment students are not always familiar with the range
-               of different research approaches they could be using for their
-               projects. Whether you are undertaking a postgraduate doctoral
-               programme or facing an undergraduate or masters dissertation,
-               this book provides general advice, as well as 13 detailed case
-               studies from 16 universities in 7 countries, to help you get to
-               grips with quantitative and qualitative methods, mixed methods of
-               data collection, action research, and more.",
-  month     =  "10~" # mar,
-  year      =  2016,
-  url       = "http://dx.doi.org/10.4324/9781315725529",
-  keywords  = "Research Methodology in the Built Environment: A Selection of
-               Case Studies;Reviewed on Theory;2\_Upgrade MAY 2023;EPubs
-               Books;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-               Git;\_New Literature;AEC;Research Methods;UCL;ePub;\_In ClickUp",
-  doi       = "10.4324/9781315725529",
-  isbn      =  9781317534259
 }
 
 @ARTICLE{Wang2008-rq,
@@ -1730,76 +2204,6 @@
                Readwise;\_Mark Up;\_XR \& MR",
   doi       = "10.1201/9780429398100",
   isbn      =  9780429398100
-}
-
-@BOOK{Ahmed2022-tl,
-  title     = "Validity and Reliability in Built Environment Research: A
-               Selection of Case Studies",
-  author    = "Ahmed, Vian and Opoku, Alex and Olanipekun, Ayokunle and
-               Sutrisna, Monty",
-  publisher = "Routledge",
-  abstract  = "This book aims to guide researchers who are engaged in social
-               science and built environment research through the process of
-               testing the reliability and validity of their research outputs
-               following the application of different methods of data
-               collection. The book presents case studies that emphasize
-               reliability and validity in different examples of qualitative,
-               quantitative and mixed method data sets, as well as covering
-               action research and grounded theory. The reader is guided through
-               case studies that demonstrate: An understanding of the
-               reliability and validity approaches from social science and built
-               environment perspectives in alignment with the relevant research
-               philosophies, approaches and data collection strategies Real
-               research projects that have been conducted by expert researchers
-               on topics such as Lean, BIM, Housing and Sustainability to answer
-               specific or evolving questions in relation to the reliability and
-               validity of research A simple and easy method that students at
-               Masters and PhD levels can relate to in order to adopt a sound
-               reliability and validity approach to their research This book is
-               the essential guide for researchers at undergraduate and
-               postgraduate level who need to understand how to validate the
-               quality of the empirical tests they conduct using different
-               techniques. The book will also be a great asset to supervisors
-               from different backgrounds who need a refresher on this key
-               aspect of the research cycle.",
-  month     =  "25~" # feb,
-  year      =  2022,
-  url       = "https://www.routledge.com/Validity-and-Reliability-in-Built-Environment-Research-A-Selection-of-Case/Ahmed-Opoku-Olanipekun-Sutrisna/p/book/9780367197803",
-  keywords  = "Grounded Theory;EPubs Books;3\_Upgrade OCT 2023;AEC Cited Lit for
-               Jacqui;\_BibTex to MD Git;ePub;AEC;Research Methods;\_New
-               Literature",
-  isbn      =  9780429516375,
-  language  = "en"
-}
-
-@BOOK{Adepoju2022-bj,
-  title     = "Re-skilling Human Resources for Construction 4.0: Implications
-               for Industry, Academia and Government",
-  author    = "Adepoju, Omoseni and Aigbavboa, Clinton and Nwulu, Nnamdi and
-               Onyia, Michael",
-  publisher = "Springer Nature",
-  abstract  = "This book examines the burgeoning revolution in the construction
-               industry known as Construction 4.0, the attendant need for
-               re-skilling human resources, and key stakeholders' roles in
-               developing the required skills for Construction 4.0. It views the
-               lack of 21st-century skills and skills gap in the industry as
-               significant challenges limiting the uptake and implementation of
-               Construction 4.0 technologies, especially in developing
-               countries. In order to determine the skills required, this book
-               examines the critical technologies of Construction 4.0, such as
-               building information modelling (BIM), robotic construction, 3D
-               printing and drones, which have transformed the construction
-               industry, thereby creating digital, intelligent and sustainable
-               construction solutions. Furthermore, the book considers the
-               benefits, risks and relevant skills required to implement
-               Construction 4.0 technologies.",
-  year      =  2022,
-  url       = "https://link.springer.com/book/10.1007/978-3-030-85973-2",
-  keywords  = "Construction 4.0;Notion Catalogued;UCL Poster Q1 2023;2\_Upgrade
-               MAY 2023;00\_TO READ;EPubs Books;3\_Upgrade OCT 2023;AEC Cited
-               Lit for Jacqui;\_BibTex to MD Git;AEC;ePub;\_Mark Up;\_Cataloged",
-  isbn      =  9783030859732,
-  language  = "en"
 }
 
 @ARTICLE{Hossain2019-no,
@@ -2029,53 +2433,6 @@
   issn     = "0166-3615"
 }
 
-@ARTICLE{Hairstans2018-zk,
-  title     = "Offsite {HUB} (Scotland): establishing a collaborative regional
-               framework for knowledge exchange in the {UK}",
-  author    = "Hairstans, Robert and Smith, Ryan E",
-  journal   = "Architectural Engineering and Design Management",
-  publisher = "Taylor \& Francis",
-  volume    =  14,
-  number    = "1-2",
-  pages     = "60--77",
-  abstract  = "ABSTRACTThe UK is set to become Europe?s largest construction
-               market by 2030. However, UK construction productivity performance
-               is regarded as weak, with low skills levels considered to be a
-               key contributory factor. Consequently, off-site construction has
-               been identified by the UK Government as a vehicle for improving
-               productivity levels if the skills deficiencies in this particular
-               market segment can be addressed. A series of projects were,
-               therefore, launched by the UK Commission for Employment and
-               Skills (UKCES) to encourage an R\&D approach to skills and
-               development application in the workplace. This paper reports on
-               one of these research projects, a University and Industry
-               collaboration between two of the largest off-site timber platform
-               frame manufacturers in the UK. The paper explains how a needs
-               analysis process was utilised to develop skills training content
-               tailored to the immediate needs of the industry partners. It also
-               explores how working with academia and a wider community of
-               stakeholders allowed this training content to result in
-               sector-level impact via knowledge exchange activities and generic
-               skills material creation. Finally, the novel approach of
-               utilising ?Hoshin? planning to form a larger regional Offsite HUB
-               (Scotland) Community of Practice, with a developed plan for
-               collaboration aligned with international off-site research
-               objectives, is also explained. The case study presented in this
-               paper is evidence of success in mobilising industry through
-               creating communities of practice to advance the construction
-               sector regionally. It also provides a generalisable method that
-               is reproducible by other university?industry cohorts in order to
-               realise shared industry-wide goals.",
-  month     =  "4~" # mar,
-  year      =  2018,
-  url       = "https://doi.org/10.1080/17452007.2017.1314858",
-  keywords  = "Construction 4.0;2\_Upgrade MAY 2023;00\_TO READ;Journal
-               Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
-               Notion;\_In Readwise;AEC;Important;\_New Literature",
-  doi       = "10.1080/17452007.2017.1314858",
-  issn      = "1745-2007"
-}
-
 @ARTICLE{King_Chun2012-rk,
   title     = "The use of virtual prototyping for hazard identification in the
                early design stage",
@@ -2213,23 +2570,6 @@
   issn     = "2212-5671"
 }
 
-@MISC{Smith2016-mk,
-  title        = "Off-Site and Modular Construction Explained",
-  author       = "Smith, Ryan E",
-  affiliation  = "National Institute of Building Sciences",
-  booktitle    = "Whole Building' Design Guide, National Institute of Building
-                  Sciences",
-  publisher    = "National Institute of Building Sciences",
-  month        =  "9~" # aug,
-  year         =  2016,
-  howpublished = "\url{https://www.wbdg.org/resources/site-and-modular-construction-explained}",
-  note         = "Accessed: 2023-2-8",
-  keywords     = "Construction 4.0;Notion Catalogued;2\_Upgrade MAY 2023;AEC
-                  Cited Lit for Jacqui;\_BibTex to MD
-                  Git;\_Cataloged;AEC;Readwise Reader;Website",
-  language     = "en"
-}
-
 @ARTICLE{Kozlovska2021-iz,
   title     = "Impact of Industry 4.0 Platform on the Formation of Construction
                4.0 Concept: A Literature Review",
@@ -2312,72 +2652,6 @@
                Readwise;AEC;\_New Literature;\_In ClickUp",
   doi       = "10.1080/01446193.2013.828846",
   issn      = "0144-6193"
-}
-
-@BOOK{Aitchison2016-ok,
-  title     = "The Architecture of Industry: Changing Paradigms in Industrial
-               Building and Planning",
-  author    = "Aitchison, Mathew",
-  publisher = "Routledge",
-  abstract  = "From the Rust Belt to Silicon Valley, the intersection between
-               architecture and industry has provided a rich and evolving source
-               for historians of architecture. In a historical context,
-               industrial architecture evokes the smoking factories of the
-               nineteenth century or Fordist production complexes of the
-               twentieth century. This book documents the changing nature of
-               industrial building and planning from the end of the nineteenth
-               century to the beginning of the twenty-first century. Drawing on
-               research from the United States, Europe and Australia, this
-               collection of essays highlights key moments in industrial
-               architecture and planning representative of the wider paradigms
-               in the field. Areas of analysis include industrial production,
-               factories, hydroelectricity, aerospace, logistics, finance,
-               scientific research and mining. The selected case studies serve
-               to highlight architectural and planning innovations in industry
-               and their contributions to wider cultural and societal currents.
-               This richly illustrated collection will be of interest for a wide
-               range of built environment studies, incorporating findings from
-               both historical and theoretical scholarship and design research.",
-  month     =  "16~" # mar,
-  year      =  2016,
-  url       = "https://play.google.com/store/books/details?id=qeq_CwAAQBAJ",
-  keywords  = "Construction 4.0;2\_Upgrade MAY 2023;EPubs Books;AEC Cited Lit
-               for Jacqui;\_In Notion;\_In Readwise;AEC;ePub;\_New Literature",
-  isbn      =  9781317044802,
-  language  = "en"
-}
-
-@ARTICLE{Gagg2014-gf,
-  title    = "Cement and concrete as an engineering material: An historic
-              appraisal and case study analysis",
-  author   = "Gagg, Colin R",
-  journal  = "Engineering failure analysis",
-  volume   =  40,
-  pages    = "114--140",
-  abstract = "Today, second only to water, concrete is the most consumed
-              material, with three tonnes per year used for every person in the
-              world. Twice as much concrete is used in construction as all other
-              building materials combined. There is little doubt that concrete
-              will remain in use as a construction material well into the
-              future. However, with such extensive use of the material,
-              discovery of any shortcoming or problem associated with concrete
-              or reinforced concrete structures will become a matter of
-              considerable public concern – both from a safety perspective and
-              associated costs of rectification. Accordingly, this paper will
-              initially review the historic development of cements and concrete
-              and will then focus on the mechanical response of concrete and
-              reinforced concrete to its working environment. At appropriate
-              points within the narrative, case study input will be used to
-              illustrate or highlight principal themes.",
-  month    =  "1~" # may,
-  year     =  2014,
-  url      = "https://www.sciencedirect.com/science/article/pii/S1350630714000387",
-  keywords = "Cement and concrete; Historic development; Mechanical response;
-              Structural failures; Failure case studies;Construction
-              4.0;2\_Upgrade MAY 2023;Journal Articles;AEC Cited Lit for
-              Jacqui;AEC;\_In Notion;\_In Readwise;\_New Literature",
-  doi      = "10.1016/j.engfailanal.2014.02.004",
-  issn     = "1350-6307"
 }
 
 @INCOLLECTION{Gu2022-hu,
@@ -2510,21 +2784,6 @@
   language  = "en"
 }
 
-@MISC{HUD_User2022-lt,
-  title        = "Operation breakthrough: Striving through struggles for success
-                  by teaming",
-  author       = "{HUD User}",
-  booktitle    = "U.S. Department of Housing and Urban Development's (HUD's)
-                  Office of Policy Development and Research (PD\&R)",
-  month        =  "3~" # jun,
-  year         =  2022,
-  howpublished = "\url{https://www.huduser.gov/portal/Operation-Breakthrough.html}",
-  note         = "Accessed: 2023-2-22",
-  keywords     = "Construction 4.0;2\_Upgrade MAY 2023;Government Report;AEC
-                  Cited Lit for Jacqui;AEC;Website;Report",
-  language     = "en"
-}
-
 @MISC{Ncasi2021-hz,
   title        = "Forest Carbon from Young vs. Old Forests",
   author       = "{NCASI}",
@@ -2583,25 +2842,6 @@
   language = "en"
 }
 
-@INCOLLECTION{Sutrisna2016-vt,
-  title     = "The Application of Grounded Theory Methodology in Built
-               Environment Research",
-  author    = "Sutrisna, M and Setiawan, W",
-  editor    = "Ahmed, Vian and Opoku, Alex and Aziz, Zeeshan",
-  booktitle = "Research Methodology in the Built Environment",
-  abstract  = "Semantic Scholar extracted view of ``The application of grounded
-               theory methodology in built environment research'' by M. Sutrisna
-               et al.",
-  month     =  "10~" # mar,
-  year      =  2016,
-  url       = "https://www.semanticscholar.org/paper/4fed843e98fb89c49566cad5bea3aefe9a801fae",
-  keywords  = "Research Methodology in the Built Environment: A Selection of
-               Case Studies;2\_Upgrade MAY 2023;Grounded Theory;EPubs Books;AEC
-               Cited Lit for Jacqui;\_Mark Up;AEC;ePub;\_In ClickUp",
-  doi       = "10.4324/9781315725529-27",
-  language  = "en"
-}
-
 @INCOLLECTION{Casini2022-fn,
   title     = "Introduction",
   author    = "Casini, Marco",
@@ -2630,81 +2870,6 @@
                  Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
                  2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC
                  Cited Lit for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC"
-}
-
-@MISC{Morby2022-bu,
-  title        = "Construction Forecast to Fall by Nearly 4\% Next Year",
-  author       = "Morby, Aaron",
-  booktitle    = "Construction Enquirer",
-  abstract     = "Crystal ball gazers sharply downgrade construction output
-                  forecast. Construction output is now expected to fall by 3.9\%
-                  in 2023 after economists at the Construction Products
-                  Association sharply downgraded forecasts",
-  month        =  "7~" # nov,
-  year         =  2022,
-  howpublished = "\url{https://www.constructionenquirer.com/2022/11/07/construction-forecast-to-fall-by-nearly-4-next-year/}",
-  note         = "Accessed: 2023-2-23",
-  keywords     = "2\_Upgrade MAY 2023;Data Stats Figures;AEC Cited Lit for
-                  Jacqui;Website;Statistics;AEC",
-  language     = "en"
-}
-
-@BOOK{Casini2022-yp,
-  title     = "Construction 4.0: Advanced Technology, Tools and Materials for
-               the Digital Transformation of the Construction Industry",
-  author    = "Casini, Marco",
-  publisher = "Elsevier Science",
-  abstract  = "Developments in data acquisition technologies, digital
-               information and analysis, automated construction processes, and
-               advanced materials and products have finally started to move the
-               construction industry - traditionally reluctant to innovation and
-               slow in adopting new technologies - toward a new era. Massive
-               changes are occurring because of the possibilities created by
-               Building information modeling, Extended reality, Internet of
-               Things, Artificial intelligence and Machine Learning, Big data,
-               Nanotechnology, 3D printing, and other advanced technologies,
-               which are strongly interconnected and are driving the
-               capabilities for much more efficient construction at scale.
-               Construction 4.0: Advanced Technology, Tools and Materials for
-               the Digital Transformation of the Construction Industry provides
-               readers with a state-of-the-art review of the ongoing digital
-               transformation of the sector within the new 4.0 framework,
-               presenting a thorough investigation of the emerging trends,
-               technologies, and strategies in the fields of smart building
-               design, construction, and operation and providing a comprehensive
-               guideline on how to exploit the new possibilities offered by the
-               digital revolution. It will be an essential reference resource
-               for academic researchers, material scientists and civil
-               engineers, undergraduate and graduate students, and other
-               professionals working in the field of smart ecoefficient
-               construction and cutting-edge technologies applied to
-               construction. Provides an overview of the Construction 4.0
-               framework to address the global challenges of the building sector
-               in the 21st century and an in-depth analysis of the most advanced
-               digital technologies and systems for the operation and
-               maintenance of infrastructure, real estate, and other built
-               assets Covers major innovations across the value chain, including
-               building design, fabrication, construction, operation and
-               maintenance, and end-of-life Illustrates the most advanced
-               digital tools and methods to support the building design
-               activity, including generative design, virtual reality, and
-               digital fabrication Presents a thorough review of the most
-               advanced construction materials, building methods, and techniques
-               for a new connected and automated construction model Explores the
-               digital transformation for smart energy buildings and their
-               integration with emerging smart grids and smart cities Reflects
-               upon major findings and identifies emerging market opportunities
-               for the whole AECO sector",
-  year      =  2022,
-  url       = "https://play.google.com/store/books/details?id=VkZPEAAAQBAJ",
-  keywords  = "Construction 4.0;Marco Casini Construction 4.0;Notion
-               Catalogued;2\_Upgrade MAY 2023;00\_TO READ;AEC Cited Lit for
-               Jacqui;\_In Readwise;AEC;Essential;\_Cataloged;\_In ClickUp;Cross
-               Ref Chapter",
-  doi       = "10.1016/c2019-0-04325-7",
-  isbn      =  9780128217979,
-  language  = "en",
-  annote    = "Book Citation: No PDF. See Chapters."
 }
 
 @INPROCEEDINGS{Ras2017-fv,
@@ -2802,110 +2967,6 @@
   language  = "en"
 }
 
-@INCOLLECTION{Aitchison2017-ps,
-  title     = "Prefabricated Housing in Architectural Culture",
-  author    = "Aitchison, Mathew and Macarthur, John",
-  editor    = "Smith, Ryan E and Quale, John D",
-  booktitle = "Offsite Architecture: Constructing the Future",
-  publisher = "Routledge",
-  address   = "New York : Routledge, 2016.",
-  pages     = "77--89",
-  abstract  = "Architects have long been fascinated by the promise of
-               prefabricated and modular building, in particular housing, and
-               even more so the individual detached house. The ‘prefab’ house
-               combines the promise of industrialised building with the dream of
-               a popular mass market for architecture, and it has exercised a
-               magnetism over architectural culture which is as strong today as
-               it was at any point in the past. The interest originated in the
-               mid-nineteenth century, but achieved a strong uptake in the early
-               to mid-twentieth century, and has continued in a cyclical pattern
-               up to the present day. This chapter describes this fascination
-               with the prefab house and discusses some of the complications
-               that have plagued its translation into real outcomes. As the
-               history of twentieth-century architect-led prefabricated housing
-               illustrates, architecture has tended to co-opt industrial
-               advances to support existing ideologies.",
-  month     =  "16~" # mar,
-  year      =  2017,
-  url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-5",
-  keywords  = "Offsite Architecture: Constructing the Future;AEC Cited Lit for
-               Jacqui;\_In ClickUp;\_In Notion;\_In Readwise;AEC;Cross Ref
-               Chapter;ePub",
-  doi       = "10.4324/9781315743332-5",
-  isbn      =  9781315743332
-}
-
-@INCOLLECTION{Smith2017-ff,
-  title     = "Offsite Construction in Education: A Survey of Prefabrication in
-               Design and Construction Academia",
-  author    = "Smith, Ryan E and Elliott, Jonathan W and Grosskopf, Kevin",
-  editor    = "Smith, Ryan E and Quale, John D",
-  booktitle = "Offsite Architecture: Constructing the Future",
-  publisher = "Routledge",
-  address   = "New York : Routledge, 2016.",
-  pages     = "128--138",
-  abstract  = "During the fall of 2014, the National Institute of Building
-               Sciences Off-Site Construction Council conducted a survey in
-               partnership member schools of the Association of Collegiate
-               Schools of Architecture and the Associated Schools of
-               Construction. The online survey was intended to determine the
-               current state of teaching and research on the emerging practice
-               of offsite prefabrication in the design and construction sector.
-               The chapter focuses on the findings of the survey to illuminate
-               the difference between what is being practiced within the
-               construction sector and what is being learned and researched at
-               higher-education institutions. Bridging the gap between education
-               and industry is important in order to create knowledge pathways
-               between what is being researched and taught and what is being
-               practiced. Currently, research agendas on both sides of education
-               and industry are mismatched, with schools focusing on product
-               R\&D and industry needing continuing professional development and
-               training as well as supply chain management support.",
-  month     =  "16~" # mar,
-  year      =  2017,
-  url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-8",
-  keywords  = "Offsite Architecture: Constructing the Future;3\_Upgrade OCT
-               2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
-               ClickUp;\_In Notion;\_In Readwise;Cross Ref Chapter;ePub",
-  doi       = "10.4324/9781315743332-8",
-  isbn      =  9781315743332
-}
-
-@INCOLLECTION{Rupnik2017-gx,
-  title     = "Mapping the Modular Industry",
-  author    = "Rupnik, Ivan",
-  editor    = "Smith, Ryan E and Quale, John D",
-  booktitle = "Offsite Architecture: Constructing the Future",
-  publisher = "Routledge",
-  address   = "New York : Routledge, 2016.",
-  pages     = "55--76",
-  abstract  = "A comparable scale to the North American modular industry was
-               achieved in the Soviet Union during the 1960s, with a number of
-               systems consisting of volumetric components of reinforced
-               concrete, but this modular system has never achieved the
-               gargantuan scale of application of Soviet panelized systems. As a
-               housing delivery system, the modular industry usually works
-               directly with small and medium-sized builders, particularly in
-               the Northeast, offering conventional light wood framing and sheet
-               rock hanging, as well as fully prefabricated assemblies, such as
-               windows and doors customized to each order. Connect Homes, a
-               modular housing delivery system developed by two architects,
-               Gordon Stott and Jared Levy, is deeply informed by the earlier
-               experiences of the system’s authors’ work at Marmol Radziner, as
-               well as a critical examination of the logics of the modular
-               industry and the intermodal shipping container. In the Northeast,
-               the modular industry has acknowledged the fact that growth will
-               occur primarily in the delivery of multi-unit housing.",
-  month     =  "16~" # mar,
-  year      =  2017,
-  url       = "https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-4",
-  keywords  = "Offsite Architecture: Constructing the Future;AEC Cited Lit for
-               Jacqui;\_In ClickUp;\_In Notion;\_In Readwise;AEC;Cross Ref
-               Chapter;ePub",
-  doi       = "10.4324/9781315743332-4",
-  isbn      =  9781315743332
-}
-
 @INPROCEEDINGS{Lang2016-it,
   title     = "Are Housebuilders' Production Strategies a Barrier to Offsite
                Construction Uptake in The {UK}?",
@@ -2942,47 +3003,6 @@
                Notion;\_In Readwise",
   isbn      =  9780995546301,
   language  = "en"
-}
-
-@INCOLLECTION{Hall2022-de,
-  title     = "New Business Models for Industrialized Construction",
-  author    = "Hall, Daniel M and Lessing, Jerker and Whyte, Jennifer",
-  editor    = "Bolpagni, Marzia and Gavina, Rui and Ribeiro, Diogo",
-  booktitle = "Industry 4.0 for the Built Environment: Methodologies,
-               Technologies and Skills",
-  publisher = "Springer International Publishing",
-  address   = "Cham",
-  pages     = "297--314",
-  abstract  = "The past few years have seen new entrants into the construction
-               sector backed with unprecedented levels of funding from venture
-               capital funds or other large investment firms. These entrants
-               seek to leverage industry 4.0 principles for the digitalization
-               and industrialization of construction. In addition to new
-               technologies, these firms also bring new business models that
-               depart from the project-based tendering system found in
-               traditional construction. The first new business model is
-               vertical integration. These firms are structured as integrated
-               hierarchical firms, keeping control of product architecture and
-               processes in-house. These firms control production by developing
-               their own off-site factories. The second new business model is
-               digital systems integration. These firms leverage an integrated
-               cloud-based product configurator to enable mass customization.
-               Using principles of capital-light industry 4.0 supply chains,
-               digital system integrators can manufacture parts from periphery
-               supply chain partners suppliers, including new sectors such as
-               automotive, aerospace, manufacturing or industrial. The third new
-               business model is the transformation of an existing project-based
-               business toward industrialized construction through the creation
-               of a spinoff factories. The chapter includes examples of the
-               three business models and concludes with a discussion of how new
-               business models may be catalysts for potential disruption of the
-               established construction sector.",
-  year      =  2022,
-  url       = "https://doi.org/10.1007/978-3-030-82430-3_13",
-  keywords  = "Industry 4.0 for the Built Environment;EPubs Books;3\_Upgrade OCT
-               2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;ePub",
-  doi       = "10.1007/978-3-030-82430-3\_13",
-  isbn      =  9783030824303
 }
 
 @ARTICLE{Assaad2022-zl,
@@ -3192,23 +3212,4 @@
   url       = "https://www.ucl.ac.uk/bartlett/construction/sites/bartlett/files/digest-the-role-of-industry-university-collaboration-in-the-transformation-of-construction.pdf",
   keywords  = "Construction 4.0;Notion Catalogued;AEC Cited Lit for
                Jacqui;UCL;AEC;\_Mark Up;\_In Readwise;\_Cataloged;\_In ClickUp"
-}
-
-@MISC{Stahl2023-dx,
-  title     = "Can {3D}-Printed Homes Withstand a Changing Climate?",
-  author    = "Stahl, Lesley",
-  booktitle = "60 Minutes",
-  publisher = "CBS Broadcasting Inc.",
-  address   = "United States",
-  number    =  4,
-  abstract  = "3D printing startup co-founder Jason Ballard explains how he
-               thinks 3D-printed houses will transform construction jobs and
-               resist the effects of climate change.",
-  series    =  56,
-  month     =  "8~" # oct,
-  year      =  2023,
-  url       = "https://www.youtube.com/watch?v=kOZxvpVWBJ4",
-  keywords  = "60 Minutes; CBS News; 3D-printed houses; climate
-               change;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
-               MD Git;YouTube;AEC"
 }

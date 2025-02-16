@@ -128,8 +128,8 @@
   url       = "https://play.google.com/store/books/details?id=VkZPEAAAQBAJ",
   keywords  = "Construction 4.0;Marco Casini Construction 4.0;Notion
                Catalogued;2\_Upgrade MAY 2023;00\_TO READ;AEC Cited Lit for
-               Jacqui;\_In Readwise;AEC;Essential;\_Cataloged;\_In ClickUp;Cross
-               Ref Chapter",
+               Jacqui;\_BibTex to MD Git;\_In
+               Readwise;AEC;Essential;\_Cataloged;\_In ClickUp;Cross Ref Chapter",
   doi       = "10.1016/c2019-0-04325-7",
   isbn      =  9780128217979,
   language  = "en",
@@ -358,8 +358,8 @@
   year     =  2020,
   url      = "https://www2.deloitte.com/us/en/insights/economy/spotlight/economics-insights-analysis-02-2020.html",
   keywords = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Frontiers
-              [2022];2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;Cited for
-              Frontiers;AEC"
+              [2022];2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+              Git;Cited for Frontiers;AEC"
 }
 
 @INPROCEEDINGS{Chini1999-tj,
@@ -658,7 +658,8 @@
   keywords = "Cement and concrete; Historic development; Mechanical response;
               Structural failures; Failure case studies;Construction
               4.0;2\_Upgrade MAY 2023;Journal Articles;AEC Cited Lit for
-              Jacqui;AEC;\_In Notion;\_In Readwise;\_New Literature",
+              Jacqui;\_BibTex to MD Git;AEC;\_In Notion;\_In Readwise;\_New
+              Literature",
   doi      = "10.1016/j.engfailanal.2014.02.004",
   issn     = "1350-6307"
 }
@@ -1420,7 +1421,7 @@
   year        =  2020,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Construction 4.0;2\_Upgrade MAY 2023;AEC Cited Lit
-                 for Jacqui;AEC"
+                 for Jacqui;\_BibTex to MD Git;AEC"
 }
 
 @ARTICLE{Vasilevski2020-bl,
@@ -1724,7 +1725,7 @@
   year     =  2016,
   url      = "https://doi.org/10.1007/s00107-015-0999-5",
   keywords = "2\_Upgrade MAY 2023;Journal Articles;AEC Cited Lit for
-              Jacqui;AEC;Cited for Frontiers;\_In Notion",
+              Jacqui;\_BibTex to MD Git;AEC;Cited for Frontiers;\_In Notion",
   doi      = "10.1007/s00107-015-0999-5",
   issn     = "1436-736X"
 }
@@ -1767,8 +1768,8 @@
   year     =  2021,
   url      = "https://www.sciencedirect.com/science/article/pii/S0959652620335320",
   keywords = "Buildings; Frame; Structures; Design; Carbon; Mass;2\_Upgrade MAY
-              2023;Journal Articles;AEC Cited Lit for Jacqui;AEC;Cited for
-              Frontiers",
+              2023;Journal Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
+              Git;AEC;Cited for Frontiers",
   doi      = "10.1016/j.jclepro.2020.123487",
   issn     = "0959-6526"
 }
@@ -2266,7 +2267,7 @@
   year     =  2019,
   url      = "https://www.ijsr.net/get_abstract.php?paper_id=ART2020213",
   keywords = "Construction 4.0;2\_Upgrade MAY 2023;Journal Articles;AEC Cited
-              Lit for Jacqui;\_New Literature;AEC",
+              Lit for Jacqui;\_BibTex to MD Git;\_New Literature;AEC",
   issn     = "2319-7064",
   language = "en"
 }
@@ -2314,7 +2315,7 @@
   year      =  2021,
   url       = "http://dx.doi.org/10.3390/buildings11010017",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;Journal Articles;AEC Cited
-               Lit for Jacqui;\_New Literature;AEC",
+               Lit for Jacqui;\_BibTex to MD Git;\_New Literature;AEC",
   doi       = "10.3390/buildings11010017",
   issn      = "2075-5309",
   language  = "en"
@@ -2751,8 +2752,8 @@
   year      =  2021,
   url       = "https://www.academia.edu/48176864/What_is_at_the_Root_of_Construction_4_0_A_Systematic_Review_of_the_Recent_Research_Effort",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;00\_TO READ;Journal
-               Articles;AEC Cited Lit for Jacqui;\_In Notion;\_In
-               Readwise;AEC;Important;\_New Literature",
+               Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+               Notion;\_In Readwise;AEC;Important;\_New Literature",
   doi       = "10.1007/s11831-020-09457-7",
   issn      = "1134-3060,1886-1784",
   language  = "en"
@@ -2836,7 +2837,8 @@
   url      = "http://dx.doi.org/10.1038/d41586-021-02612-5",
   keywords = "Climate change; Materials science; Policy; Society;
               Technology;Construction 4.0;2\_Upgrade MAY 2023;Journal
-              Articles;AEC Cited Lit for Jacqui;\_In Readwise;AEC",
+              Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+              Readwise;AEC",
   doi      = "10.1038/d41586-021-02612-5",
   pmc      =  4284584,
   pmid     =  34584258,

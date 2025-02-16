@@ -232,7 +232,8 @@
   month    =  "8~" # jul,
   year     =  2021,
   url      = "https://www.cnn.com/2021/07/08/economy/construction-worker-shortage/index.html",
-  keywords = "2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC",
+  keywords = "2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+              Git;AEC",
   language = "en"
 }
 
@@ -321,7 +322,8 @@
   month       =  dec,
   year        =  2019,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Data
-                 Stats Figures;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC"
+                 Stats Figures;2\_Upgrade MAY 2023;AEC Cited Lit for
+                 Jacqui;\_BibTex to MD Git;AEC"
 }
 
 @TECHREPORT{Acg2019-gi,
@@ -389,8 +391,8 @@
   year         =  2014,
   howpublished = "\url{https://www.kmltf.org/math-for-the-trades/}",
   note         = "Accessed: --",
-  keywords     = "2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;AEC;Cited for
-                  Frontiers;\_In Notion;Training",
+  keywords     = "2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+                  Git;AEC;Cited for Frontiers;\_In Notion;Training",
   language     = "en"
 }
 
@@ -432,7 +434,8 @@
   year      =  2022,
   url       = "https://play.google.com/store/books/details?id=-7KiEAAAQBAJ",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;EPubs Books;AEC Cited Lit
-               for Jacqui;\_In Notion;\_In Readwise;AEC;ePub;\_New Literature",
+               for Jacqui;\_BibTex to MD Git;\_In Notion;\_In
+               Readwise;AEC;ePub;\_New Literature",
   isbn      =  9783658394073,
   language  = "en"
 }
@@ -454,35 +457,6 @@
                Methods;UCL;ePub;\_Mark Up;\_In ClickUp",
   doi       = "10.4324/9781315725529-3",
   isbn      =  9781317534259
-}
-
-@INCOLLECTION{Weber-Lewerenz2022-zr,
-  title     = "Guest Chapter: The Human in the Centre?! (Christian)—Ethical
-               Reflections on the Anthropological and Ethical Challenges of {AI}",
-  author    = "Weber-Lewerenz, Bianca Christina",
-  editor    = "Weber-Lewerenz, Bianca Christina",
-  booktitle = "Accents of added value in construction 4.0: Ethical observations
-               in dealing with digitization and AI",
-  publisher = "Springer Fachmedien Wiesbaden",
-  address   = "Wiesbaden",
-  pages     = "439--454",
-  abstract  = "“Sophia, do you believe in God?” No little girl should answer
-               this or other questions about her life here, but this question
-               was aimed at a humanoid robot lady. It was developed by Hanson
-               Robotics in Hong Kong and presented at the United Nations on
-               October 11, 2017. On October 25, 2017, Saudi Arabia even granted
-               her citizenship. When she appears at various trade fairs and
-               exhibitions, she can conduct simple, pre-programmed conversations
-               through artificial intelligence (AI). However, questions such as
-               those about her cultural preferences, beliefs, life, love,
-               freedom, and ultimately death remain unanswered.",
-  year      =  2022,
-  url       = "https://doi.org/10.1007/978-3-658-39407-3_13",
-  keywords  = "2\_Upgrade MAY 2023;Construction 4.0;EPubs Books;AEC Cited Lit
-               for Jacqui;\_In Notion;\_In Readwise;AEC;Robots;Technological
-               change;\_New Literature;ePub",
-  doi       = "10.1007/978-3-658-39407-3\_13",
-  isbn      =  9783658394073
 }
 
 @BOOK{Ahmed2016-mt,
@@ -878,6 +852,35 @@
   keywords  = "60 Minutes; CBS News; 3D-printed houses; climate
                change;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
                MD Git;YouTube;AEC"
+}
+
+@INCOLLECTION{Weber-Lewerenz2022-zr,
+  title     = "Guest Chapter: The Human in the Centre?! (Christian)—Ethical
+               Reflections on the Anthropological and Ethical Challenges of {AI}",
+  author    = "Weber-Lewerenz, Bianca Christina",
+  editor    = "Weber-Lewerenz, Bianca Christina",
+  booktitle = "Accents of added value in construction 4.0: Ethical observations
+               in dealing with digitization and AI",
+  publisher = "Springer Fachmedien Wiesbaden",
+  address   = "Wiesbaden",
+  pages     = "439--454",
+  abstract  = "“Sophia, do you believe in God?” No little girl should answer
+               this or other questions about her life here, but this question
+               was aimed at a humanoid robot lady. It was developed by Hanson
+               Robotics in Hong Kong and presented at the United Nations on
+               October 11, 2017. On October 25, 2017, Saudi Arabia even granted
+               her citizenship. When she appears at various trade fairs and
+               exhibitions, she can conduct simple, pre-programmed conversations
+               through artificial intelligence (AI). However, questions such as
+               those about her cultural preferences, beliefs, life, love,
+               freedom, and ultimately death remain unanswered.",
+  year      =  2022,
+  url       = "https://doi.org/10.1007/978-3-658-39407-3_13",
+  keywords  = "2\_Upgrade MAY 2023;Construction 4.0;EPubs Books;AEC Cited Lit
+               for Jacqui;\_BibTex to MD Git;\_In Notion;\_In
+               Readwise;AEC;Robots;Technological change;\_New Literature;ePub",
+  doi       = "10.1007/978-3-658-39407-3\_13",
+  isbn      =  9783658394073
 }
 
 @TECHREPORT{Davies2018-ai,
@@ -1889,8 +1892,9 @@
               environment professionals: A South African perspective",
   author   = "Yeni-Letsoko, Vuyiswa and Pillay, Nischolan",
   year     =  2019,
-  keywords = "Construction 4.0;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_In
-              Notion;\_In Readwise;AEC;Labor;Skill demand"
+  keywords = "Construction 4.0;2\_Upgrade MAY 2023;AEC Cited Lit for
+              Jacqui;\_BibTex to MD Git;\_In Notion;\_In
+              Readwise;AEC;Labor;Skill demand"
 }
 
 @TECHREPORT{Cole2023-zp,
@@ -2378,7 +2382,8 @@
   year      =  2020,
   url       = "http://dx.doi.org/10.31580/jei.v7i2.1438",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;Grounded Theory;Journal
-               Articles;VET;AEC Cited Lit for Jacqui;\_New Literature;AEC;VET",
+               Articles;VET;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_New
+               Literature;AEC;VET",
   doi       = "10.31580/jei.v7i2.1438",
   issn      = "2313-335X,2708-8448"
 }
@@ -3118,8 +3123,8 @@
   month       =  "2~" # jun,
   year        =  2018,
   keywords    = "Construction 4.0;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
-                 PWC;AEC Cited Lit for Jacqui;AEC;\_In Notion;\_In
-                 Readwise;\_New Literature"
+                 PWC;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;\_In
+                 Notion;\_In Readwise;\_New Literature"
 }
 
 @ARTICLE{Detsimas2016-jx,

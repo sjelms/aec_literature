@@ -348,7 +348,7 @@
   url         = "https://www.cbi.org.uk/media/4121/fine-margins-february-2020-cbi.pdf",
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;AEC Cited Lit
-                 for Jacqui;Cited for Frontiers;AEC"
+                 for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC"
 }
 
 @TECHREPORT{Barua2020-br,
@@ -675,7 +675,7 @@
   howpublished = "\url{https://www.huduser.gov/portal/Operation-Breakthrough.html}",
   note         = "Accessed: 2023-2-22",
   keywords     = "Construction 4.0;2\_Upgrade MAY 2023;Government Report;AEC
-                  Cited Lit for Jacqui;AEC;Website;Report",
+                  Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Website;Report",
   language     = "en"
 }
 
@@ -712,7 +712,7 @@
   howpublished = "\url{https://www.constructionenquirer.com/2022/11/07/construction-forecast-to-fall-by-nearly-4-next-year/}",
   note         = "Accessed: 2023-2-23",
   keywords     = "2\_Upgrade MAY 2023;Data Stats Figures;AEC Cited Lit for
-                  Jacqui;Website;Statistics;AEC",
+                  Jacqui;\_BibTex to MD Git;Website;Statistics;AEC",
   language     = "en"
 }
 
@@ -1023,7 +1023,8 @@
   year        =  2022,
   url         = "http://dx.doi.org/10.1038/s41467-022-32244-w",
   keywords    = "Construction 4.0;2\_Upgrade MAY 2023;Journal Articles;AEC Cited
-                 Lit for Jacqui;AEC;\_In Notion;\_In Readwise;\_New Literature",
+                 Lit for Jacqui;\_BibTex to MD Git;AEC;\_In Notion;\_In
+                 Readwise;\_New Literature",
   doi         = "10.1038/s41467-022-32244-w",
   pmc         = "PMC9427734",
   pmid        =  36042197,
@@ -1424,6 +1425,28 @@
                  for Jacqui;\_BibTex to MD Git;AEC"
 }
 
+@MISC{Ncasi2021-hz,
+  title        = "Forest Carbon from Young vs. Old Forests",
+  author       = "{NCASI}",
+  booktitle    = "National Council for Air and Stream Improvement",
+  abstract     = "This infographic illustrates how forests of different ages
+                  play different roles in removing carbon from the atmosphere
+                  and storing it in wood. Managing forests to avoid large
+                  emissions from the loss of old trees while rapidly removing
+                  CO2 from the atmosphere through young forest growth can
+                  provide both storage and sequestration benefits. The
+                  infographic also speaks to the role that harvested wood
+                  products play. The data contained in the infographic are
+                  sourced from an array of peer-reviewed publications.",
+  month        =  "22~" # jan,
+  year         =  2021,
+  howpublished = "\url{https://www.ncasi.org/resource/forest-carbon-from-young-vs-old-forests/}",
+  note         = "Accessed: 2023-2-23",
+  keywords     = "Construction 4.0;UCL Poster Q1 2023;2\_Upgrade MAY 2023;AEC
+                  Cited Lit for Jacqui;\_BibTex to MD Git;\_In Readwise;AEC",
+  language     = "en, fr"
+}
+
 @ARTICLE{Vasilevski2020-bl,
   title     = "Analysing construction student experiences of mobile mixed
                reality enhanced learning in virtual and augmented reality
@@ -1478,7 +1501,7 @@
   year        =  2020,
   keywords    = "Zotero Import (Feb 22);My Library;2021-12-03
                  Frontiers;Frontiers [2022];2\_Upgrade MAY 2023;AEC Cited Lit
-                 for Jacqui;Cited for Frontiers;AEC"
+                 for Jacqui;\_BibTex to MD Git;Cited for Frontiers;AEC"
 }
 
 @TECHREPORT{Thompson2021-sk,
@@ -1682,8 +1705,8 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S0305440320300066",
   keywords = "Central Europe; Dendrochronology; Early Neolithic; Oak; Linear
               pottery culture (LBK); Water well;2\_Upgrade MAY 2023;Journal
-              Articles;AEC Cited Lit for Jacqui;AEC;Cited for Frontiers;\_In
-              Notion",
+              Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Cited for
+              Frontiers;\_In Notion",
   doi      = "10.1016/j.jas.2020.105082",
   issn     = "0305-4403"
 }
@@ -1826,8 +1849,8 @@
   year      =  2021,
   url       = "https://www.frontiersin.org/articles/10.3389/fbuil.2021.635978/full",
   keywords  = "LSU - Louisiana State University;Notion Catalogued;2\_Upgrade MAY
-               2023;Journal Articles;AEC Cited Lit for Jacqui;AEC;Workplace
-               Learning;\_Mark Up;\_Cataloged",
+               2023;Journal Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
+               Git;AEC;Workplace Learning;\_Mark Up;\_Cataloged",
   doi       = "10.3389/fbuil.2021.635978",
   issn      = "2297-3362"
 }
@@ -1898,8 +1921,8 @@
   institution = "Autodesk",
   month       =  "3~" # jun,
   year        =  2020,
-  keywords    = "Autodesk;2\_Upgrade MAY 2023;AEC Cited Lit for
-                 Jacqui;AEC;Report"
+  keywords    = "Autodesk;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex
+                 to MD Git;AEC;Report"
 }
 
 @PHDTHESIS{Jadallah2021-bu,
@@ -2060,9 +2083,9 @@
   year      =  2012,
   url       = "http://dx.doi.org/10.1016/j.aei.2011.09.004",
   keywords  = "LSU Supporting Works;Notion Catalogued;2\_Upgrade MAY
-               2023;Journal Articles;AEC Cited Lit for Jacqui;\_XR \&
-               MR;AEC;Knowledge - Skill Acquisition;Workplace Learning;\_Mark
-               Up;\_Cataloged",
+               2023;Journal Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
+               Git;\_XR \& MR;AEC;Knowledge - Skill Acquisition;Workplace
+               Learning;\_Mark Up;\_Cataloged",
   doi       = "10.1016/j.aei.2011.09.004",
   issn      = "1474-0346,1873-5320",
   language  = "en"
@@ -2480,8 +2503,8 @@
   year      =  2012,
   url       = "http://dx.doi.org/10.1108/14714171211197481",
   keywords  = "Construction 4.0;XR Reviewed;2\_Upgrade MAY 2023;Journal
-               Articles;AEC Cited Lit for Jacqui;\_In Notion;\_In Readwise;\_New
-               Literature;AEC",
+               Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+               Notion;\_In Readwise;\_New Literature;AEC",
   doi       = "10.1108/14714171211197481",
   issn      = "1471-4175,1477-0857",
   language  = "en"
@@ -2499,8 +2522,8 @@
   url       = "http://dx.doi.org/10.1201/9781315147321-11",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;Offsite Production and
                Manufacturing for Innovative Construction;AEC Cited Lit for
-               Jacqui;\_New Literature;\_In Notion;\_In Readwise;AEC;Cross Ref
-               Chapter",
+               Jacqui;\_BibTex to MD Git;\_New Literature;\_In Notion;\_In
+               Readwise;AEC;Cross Ref Chapter",
   doi       = "10.1201/9781315147321-11",
   isbn      =  9781315147321
 }
@@ -2567,8 +2590,8 @@
   url      = "https://www.sciencedirect.com/science/article/pii/S2212567115001719",
   keywords = "refurbishment; tacit knowledge; social motivations; knowledge
               management system; platforms;Construction 4.0;2\_Upgrade MAY
-              2023;Journal Articles;AEC Cited Lit for Jacqui;\_In Notion;\_In
-              Readwise;AEC;\_New Literature;Economics",
+              2023;Journal Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
+              Git;\_In Notion;\_In Readwise;AEC;\_New Literature;Economics",
   doi      = "10.1016/S2212-5671(15)00171-9",
   issn     = "2212-5671"
 }
@@ -2607,7 +2630,8 @@
   year      =  2021,
   url       = "https://www.mdpi.com/2071-1050/13/5/2683",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;Journal Articles;AEC Cited
-               Lit for Jacqui;\_In Notion;\_In Readwise;AEC;\_New Literature",
+               Lit for Jacqui;\_BibTex to MD Git;\_In Notion;\_In
+               Readwise;AEC;\_New Literature",
   doi       = "10.3390/su13052683",
   issn      = "1548-7733",
   language  = "en"
@@ -2651,8 +2675,8 @@
   year      =  2013,
   url       = "https://doi.org/10.1080/01446193.2013.828846",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;00\_TO READ;Journal
-               Articles;AEC Cited Lit for Jacqui;\_In Notion;\_In
-               Readwise;AEC;\_New Literature;\_In ClickUp",
+               Articles;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+               Notion;\_In Readwise;AEC;\_New Literature;\_In ClickUp",
   doi       = "10.1080/01446193.2013.828846",
   issn      = "0144-6193"
 }
@@ -2680,7 +2704,8 @@
   year      =  2022,
   url       = "https://www.intechopen.com/chapters/78070",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;AEC Cited Lit for
-               Jacqui;\_In Notion;\_In Readwise;AEC;\_New Literature",
+               Jacqui;\_BibTex to MD Git;\_In Notion;\_In Readwise;AEC;\_New
+               Literature",
   doi       = "10.5772/intechopen.99193"
 }
 
@@ -2769,8 +2794,9 @@
   institution = "Roland Berger GmbH",
   year        =  2016,
   keywords    = "Construction 4.0;2\_Upgrade MAY 2023;00\_TO READ;Deloitte -
-                 McKinsey - EY - PWC;AEC Cited Lit for Jacqui;\_In Notion;\_In
-                 Readwise;AEC;Essential;\_New Literature;\_In ClickUp"
+                 McKinsey - EY - PWC;AEC Cited Lit for Jacqui;\_BibTex to MD
+                 Git;\_In Notion;\_In Readwise;AEC;Essential;\_New
+                 Literature;\_In ClickUp"
 }
 
 @BOOK{Kelly1951-kc,
@@ -2782,31 +2808,10 @@
   month     =  "15~" # jun,
   year      =  1951,
   url       = "https://play.google.com/store/books/details?id=4lb-vQEACAAJ",
-  keywords  = "2\_Upgrade MAY 2023;Construction 4.0;AEC Cited Lit for Jacqui;AEC",
+  keywords  = "2\_Upgrade MAY 2023;Construction 4.0;AEC Cited Lit for
+               Jacqui;\_BibTex to MD Git;AEC",
   isbn      =  9780262110013,
   language  = "en"
-}
-
-@MISC{Ncasi2021-hz,
-  title        = "Forest Carbon from Young vs. Old Forests",
-  author       = "{NCASI}",
-  booktitle    = "National Council for Air and Stream Improvement",
-  abstract     = "This infographic illustrates how forests of different ages
-                  play different roles in removing carbon from the atmosphere
-                  and storing it in wood. Managing forests to avoid large
-                  emissions from the loss of old trees while rapidly removing
-                  CO2 from the atmosphere through young forest growth can
-                  provide both storage and sequestration benefits. The
-                  infographic also speaks to the role that harvested wood
-                  products play. The data contained in the infographic are
-                  sourced from an array of peer-reviewed publications.",
-  month        =  "22~" # jan,
-  year         =  2021,
-  howpublished = "\url{https://www.ncasi.org/resource/forest-carbon-from-young-vs-old-forests/}",
-  note         = "Accessed: 2023-2-23",
-  keywords     = "Construction 4.0;UCL Poster Q1 2023;2\_Upgrade MAY 2023;AEC
-                  Cited Lit for Jacqui;\_In Readwise;AEC",
-  language     = "en, fr"
 }
 
 @MISC{Hawkins2021-th,
@@ -2821,7 +2826,7 @@
   howpublished = "\url{https://www.istructe.org/journal/volumes/volume-99-(2021)/issue-1/timber-and-carbon-sequestration/}",
   note         = "Accessed: 2023-2-23",
   keywords     = "Construction 4.0;2\_Upgrade MAY 2023;AEC Cited Lit for
-                  Jacqui;\_In Readwise;AEC",
+                  Jacqui;\_BibTex to MD Git;\_In Readwise;AEC",
   language     = "en"
 }
 
@@ -2965,7 +2970,8 @@
   month     =  "11~" # apr,
   year      =  2016,
   url       = "https://www.un-ilibrary.org/content/journals/15643913/53/3/7",
-  keywords  = "2\_Upgrade MAY 2023;Journal Articles;AEC Cited Lit for Jacqui;AEC",
+  keywords  = "2\_Upgrade MAY 2023;Journal Articles;AEC Cited Lit for
+               Jacqui;\_BibTex to MD Git;AEC",
   doi       = "10.18356/3700d3d7-en",
   issn      = "0251-7329,1564-3913",
   language  = "en"
@@ -3091,7 +3097,8 @@
   year      =  2021,
   url       = "http://dx.doi.org/10.22617/spr200308",
   keywords  = "Construction 4.0;2\_Upgrade MAY 2023;00\_TO READ;AEC Cited Lit
-               for Jacqui;AEC;\_In Readwise;\_In Notion;\_Mark Up;\_In ClickUp",
+               for Jacqui;\_BibTex to MD Git;AEC;\_In Readwise;\_In
+               Notion;\_Mark Up;\_In ClickUp",
   doi       = "10.22617/spr200308"
 }
 

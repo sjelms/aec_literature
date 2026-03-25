@@ -1,43 +1,3 @@
-@BOOK{Smith2017-zx,
-  title     = {Offsite Architecture: Constructing the Future},
-  editor    = {Smith, Ryan E and Quale, John D},
-  editorb   = {Richard, Roger-Bruno and Vibæk, Kasper Sánchez and Bundgaard,
-               Charlotte and Rupnik, Ivan and Aitchison, Mathew and Macarthur,
-               John and Rice, Talbot and Elliott, Jonathan W and Grosskopf,
-               Kevin and Ku, Kihong and Broadstone, Paul and Buntrock, Dana and
-               Lidelöw, Helena and Hairstans, Robert and Sanna, Fausto},
-  publisher = {Routledge},
-  date      = {2017-03-16},
-  pagetotal = {308},
-  doi       = {10.4324/9781315743332},
-  isbn      = {9781317588818},
-  abstract  = {Architects have been intrigued by prefabricated construction
-               since the early twentieth century. Recent advances in design,
-               engineering and manufacturing processes have led to a significant
-               expansion in the use of pre-assembled components, which are
-               fitted to finished structures on site. Collectively, such
-               processes are becoming known as *offsite construction*. A
-               ground-breaking text, Offsite Architecture establishes the
-               current – and future – state of thinking in this field. A range
-               of the most highly regarded thinkers and practitioners from
-               around the globe share their ideas and practical findings on
-               offsite prefabrication, examining theory and practice,
-               opportunities and challenges, successes and failures. A timely
-               response to the growing interest in this method, the book
-               provides the fundamental basis for a critical, reflective
-               approach to offsite architecture. Contributions from both
-               academics and professionals make Offsite Architecture required
-               reading for practitioners as well as students taking courses in
-               architecture, prefabrication, construction and engineering.},
-  url       = {https://www.taylorfrancis.com/books/edit/10.4324/9781315743332/offsite-architecture-ryan-smith-john-quale},
-  keywords  = {Construction 4-0;Notion Catalogued;2\_Upgrade MAY 2023;00\_TO
-               READ;Offsite Architecture: Constructing the Future;EPubs
-               Books;AEC Cited Lit for Jacqui;\_BibTex to MD
-               Git;AEC;ePub;Essential;Important;\_Mark Up;\_Cataloged;\_In
-               ClickUp},
-  language  = {en}
-}
-
 @BOOK{Aitchison2018-cw,
   title     = {Prefab Housing and the Future of Building: Product to Process},
   author    = {Aitchison, Mathew},
@@ -137,8 +97,9 @@
   keywords    = {Construction 4-0;Notion Catalogued;UCL Poster Q1
                  2023;2\_Upgrade MAY 2023;00\_TO READ;Government
                  Report;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
-                 MD Git;EPubs Books;AEC;Important;\_Mark
-                 Up;Essential;\_Cataloged;\_In ClickUp;Report;ePub;Training}
+                 MD Git;EPubs Books;BSSC Seed Fund for AI
+                 Research;AEC;Important;\_Mark Up;Essential;\_Cataloged;\_In
+                 ClickUp;Report;ePub;Training}
 }
 
 @PHDTHESIS{Kuzmanovska2020-kw,
@@ -217,416 +178,6 @@
   language     = {en}
 }
 
-@ARTICLE{Bock2015-tf,
-  title        = {The Future of Construction Automation: Technological
-                  Disruption and the Upcoming Ubiquity of Robotics},
-  author       = {Bock, Thomas},
-  journaltitle = {Automation in Construction},
-  publisher    = {Elsevier BV},
-  volume       = {59},
-  pages        = {113--121},
-  date         = {2015-11-01},
-  doi          = {10.1016/j.autcon.2015.07.022},
-  issn         = {0926-5805,1872-7891},
-  abstract     = {The following article reviews past and current tendencies and
-                  derives and describes opportunities for future construction
-                  automation that go beyond the current notion of construction
-                  automation. Various indicators suggest that conventional
-                  construction methodology has reached its limits. An overlay of
-                  S-curves can be used to describe the relationship between the
-                  stagnation and technical limits of conventional construction
-                  and the initiation, development, and growth of new strategies
-                  and technologies of construction automation. Although
-                  approaches of construction automation are still in an
-                  innovation or seed phase, it can be expected that with
-                  continued effort put into research and development these
-                  approaches may soon enter into the growth phase and encounter
-                  adoption on a larger scale. Furthermore, the article shows
-                  that over time, the ability of robot systems has grown,
-                  allowing them to work more and more in comparably unstructured
-                  environments as well as to be deployed in numerous and diverse
-                  fields. Currently, it can already be observed that
-                  construction automation technology, STCR approaches, service
-                  robot systems, and other microsystems technology are merging
-                  with the built environment, becoming inherent elements of
-                  buildings, building components, and building furniture.},
-  url          = {https://www.sciencedirect.com/science/article/abs/pii/S092658051500165X},
-  urldate      = {2026-03-06},
-  keywords     = {JG\_Recommended;\_BibTex to MD Git},
-  language     = {en}
-}
-
-@BOOK{Bock2015-ds,
-  title     = {Robot-Oriented Design: Design and Management Tools for the
-               Deployment of Automation and Robotics in Construction},
-  author    = {Bock, Thomas and Linner, Thomas},
-  publisher = {Cambridge University Press},
-  location  = {Cambridge, England},
-  date      = {2015-05-05},
-  pagetotal = {352},
-  doi       = {10.1017/cbo9781139924146},
-  isbn      = {9781107076389,9781107076389},
-  abstract  = {Robot-Oriented Design introduces the design, innovation, and
-               management methodologies that are key to the realization and
-               implementation of the advanced concepts and technologies
-               presented in the subsequent volumes of the Cambridge Handbooks on
-               Construction Robotics series. This book describes the efficient
-               deployment of advanced construction and building technology. It
-               is concerned with the co-adaptation of construction products,
-               processes, organization, and management, and with
-               automated/robotic technology, so that the implementation of
-               modern technology becomes easier and more efficient. It is also
-               concerned with technology and innovation management methodologies
-               and the generation of life cycle-oriented views related to the
-               use of advanced technologies in construction.},
-  url       = {http://dx.doi.org/10.1017/cbo9781139924146},
-  note      = {Full book contents located in dedicated folder.},
-  keywords  = {JG\_Recommended;Robot-Oriented Design;\_BibTex to MD Git;Book
-               (parent);AEC;Robots}
-}
-
-@MISC{Yang2023-qm,
-  title        = {Where did the workers go? Construction jobs are plentiful, but
-                  workers are scarce},
-  author       = {Yang, Mary},
-  journaltitle = {National Public Radio},
-  publisher    = {NPR},
-  date         = {2023-04-06},
-  abstract     = {Biden administration stimulus money pledged billions in
-                  funding for public works projects across the U.S. But
-                  contractors say they can't find enough workers to fix all the
-                  roads and bridges.},
-  url          = {https://www.npr.org/2023/04/06/1158576556/where-did-the-workers-go-construction-jobs-are-plentiful-but-workers-are-scarce},
-  urldate      = {2023-09-29},
-  keywords     = {3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;Readwise Reader;Website;Labor;Statistics;\_Mark Up;AEC}
-}
-
-@MISC{Tucker1999-ml,
-  title     = {Key Workforce Challenges Facing the American Construction
-               Industry: An Interim Assessment},
-  author    = {Tucker, Richard L and Haas, Carl T and Glover, Robert W and
-               Alemany, Christine and Carley, Lynn Anne and Rodriguez, Ana Maria
-               and Shields, David},
-  publisher = {Center for Construction Industry Studies, The University of Texas
-               at Austin},
-  date      = {1999},
-  doi       = {10.26153/TSW/41160},
-  abstract  = {This report has three purposes. First, it serves as a primer on
-               the nature and state of today's construction workforce and how it
-               has developed over time. Second, it identifies key workforce
-               issues of concern to industry leaders. Finally, it ,summarizes
-               the findings of existing research and the research of the
-               Workforce Group. This work is motivated by the identified key
-               issues and the problems that they present, and it provides
-               preliminary answers to some of the most important questions that
-               are posed by these problems.},
-  url       = {https://repositories.lib.utexas.edu/handle/2152/114257},
-  keywords  = {3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-               Git;\_In Notion;\_In Readwise;AEC;Labor;\_New Literature},
-  language  = {en}
-}
-
-@MISC{Yurkevich2021-mu,
-  title        = {America desperately needs 1 million more construction workers},
-  author       = {Yurkevich, Vanessa},
-  journaltitle = {CNN},
-  edition      = {CNN Business},
-  date         = {2021-07-08},
-  abstract     = {Matthew Messer hauls solar panels on the roof of a home in
-                  Long Island, New York, hoisting them one by one in the
-                  100-degree June heat. Messer is the owner of New York Solar
-                  Maintenance, but these days he's working right alongside his
-                  lead technician seven days a week as business booms.},
-  url          = {https://www.cnn.com/2021/07/08/economy/construction-worker-shortage/index.html},
-  urldate      = {2022-04-10},
-  keywords     = {2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;AEC},
-  language     = {en}
-}
-
-@INBOOK{Smith2019-lv,
-  title     = {Productivity, Innovation and Disruption : A Study of Offsite
-               Construction in the United States},
-  author    = {Smith, Ryan E and Rupnik, Ivan},
-  booktitle = {Offsite Production and Manufacturing for Innovative Construction},
-  publisher = {Routledge},
-  edition   = {1st Edition},
-  pages     = {223--256},
-  date      = {2019-06-19},
-  doi       = {10.1201/9781315147321-10},
-  abstract  = {The lack of productivity in the United States (US) construction
-               sector results in part from little product or service innovation
-               that can create value for the industry. This chapter provides a
-               thick description of business innovation typologies relating to
-               the offsite construction industry in the US. Offsite construction
-               is ‘the process of planning, designing, fabricating,
-               transporting, and assembling building elements for rapid site
-               assembly to a greater degree of finish than in traditional
-               piecemeal on-site construction’. Legislatively, however, the
-               process was more clearly regulated and streamlined, occurring
-               primarily offsite, which helps explain why one in every ten
-               housing units constructed each year today in the US are
-               manufactured homes. The US economy presents new opportunities for
-               permanent modular construction to compete. Disruptive, sustaining
-               and radical innovation have all been proffered as potential
-               solutions to answer the construction sector’s stagnation in
-               productivity and demand for growth.},
-  url       = {https://www.taylorfrancis.com/chapters/edit/10.1201/9781315147321-10/productivity-innovation-disruption-ryan-smith-ivan-rupnik},
-  urldate   = {2023-12-05},
-  keywords  = {Offsite Production and Manufacturing for Innovative
-               Construction;AEC Cited Lit for Jacqui;\_BibTex to MD Git;Cross
-               Ref Chapter;AEC;Workplace Learning;Essential}
-}
-
-@INBOOK{Thuesen2019-fv,
-  title     = {The Impact of Organisational Learning and Change on Offsite
-               Manufacturing},
-  author    = {Thuesen, Christian and Bekdik, Barış},
-  booktitle = {Offsite Production and Manufacturing for Innovative Construction},
-  publisher = {Routledge},
-  location  = {Abingdon, Oxon ; New York, NY : Routledge, 2019.},
-  pages     = {337--358},
-  date      = {2019-06-19},
-  doi       = {10.1201/9781315147321-14},
-  isbn      = {9781315147321},
-  url       = {https://www.taylorfrancis.com/chapters/edit/10.1201/9781315147321-14/impact-organisational-learning-change-offsite-manufacturing-christian-thuesen-bar%C4%B1%C5%9F-bekdik},
-  keywords  = {Offsite Production and Manufacturing for Innovative
-               Construction;Upgrade Viva Prep Reading;AEC Cited Lit for
-               Jacqui;\_BibTex to MD Git;Cross Ref Chapter;AEC;Workplace
-               Learning;Fieldwork Methodology;Research Methods;Essential}
-}
-
-@MISC{Lidelow2023-sm,
-  title      = {Factory of the Future [Keynote address]},
-  author     = {Lidelöw, Helena},
-  eventtitle = {Industrialized Construction Forum 2023},
-  venue      = {Center for Integrated Facility Engineering, Stanford University,
-                Stanford, CA},
-  date       = {2023-02-07},
-  abstract   = {The keynote speech by Dr. Helene Lidelöw, CTO of Volumetric
-                Building Companies, at the Industrialized Construction Forum
-                2023, focuses on the importance of collaboration, production
-                strategy, platform development, market alignment, and
-                digitalization in the construction industry. Dr. Lidelöw
-                emphasizes the need for collective action and collaboration to
-                drive progress and achieve common goals. She shares insights on
-                standardized products, platform development, and successful
-                modular factories that utilize automation and standardization to
-                increase productivity. Additionally, she highlights the
-                significance of market alignment and digital tools in improving
-                precision and efficiency in production processes. This keynote
-                speech offers valuable insights for driving innovation and
-                success in the industrialized construction industry.},
-  url        = {https://cife.stanford.edu/events/industrialized-construction-forum-2023},
-  keywords   = {Construction 4-0;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
-                Cited Lit for Jacqui;\_BibTex to MD Git;AEC}
-}
-
-@REPORT{Barbosa2017-rj,
-  type        = {resreport},
-  title       = {Reinventing construction through a productivity revolution},
-  author      = {Barbosa, Filipe and Woetzel, Jonathan and Mischke, Jan and
-                 Ribeirinho, Maria João and Sridhar, Mukund and Parsons, Matthew
-                 and Bertram, Nick and Brown, Stephanie},
-  institution = {McKinsey Global Institute},
-  date        = {2017-02-27},
-  pagetotal   = {168},
-  url         = {https://www.mckinsey.com/business-functions/operations/our-insights/reinventing-construction-through-a-productivity-revolution},
-  keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;Frontiers [2022];Construction 4-0;UCL Poster Q1
-                 2023;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
-                 PWC;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-                 Git;Cited for Frontiers;AEC}
-}
-
-@REPORT{Renz2016-br,
-  type        = {resreport},
-  title       = {Shaping the Future of Construction: A Breakthrough in Mindset
-                 and Technology},
-  author      = {Renz, Andreas and Solas, Manuel Zafra},
-  editor      = {de Almeida, Pedro Rodrigues and Bühler, Michael},
-  editorb     = {Gerbert, Philipp and Castagnino, Santiago and Rothballer,
-                 Christoph},
-  publisher   = {World Economic Forum},
-  institution = {World Economic Forum},
-  date        = {2016-05-06},
-  pagetotal   = {64},
-  keywords    = {2\_Upgrade MAY 2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade
-                 OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
-                 Notion;\_In Readwise;AEC;\_New Literature},
-  origdate    = {2016-05-06}
-}
-
-@INBOOK{Assaad2023-ib,
-  title     = {Opportunities and Challenges of Offsite Construction},
-  author    = {Assaad, Rayan H and El-adaway, Islam H and Hastak, Makarand and
-               LaScola Needy, Kim},
-  booktitle = {Lecture Notes in Civil Engineering},
-  publisher = {Springer Nature Singapore},
-  location  = {Singapore},
-  pages     = {555--568},
-  date      = {2023},
-  doi       = {10.1007/978-981-19-1029-6_42},
-  issn      = {2366-2557,2366-2565},
-  isbn      = {9789811910289,9789811910296},
-  url       = {http://dx.doi.org/10.1007/978-981-19-1029-6_42},
-  keywords  = {Construction 4-0;00\_TO READ;3\_Upgrade OCT 2023;AEC Cited Lit
-               for Jacqui;\_BibTex to MD Git;\_In Notion;\_In Readwise;\_New
-               Literature;AEC;Important}
-}
-
-@ARTICLE{Hall2020-iw,
-  title        = {Mirror-breaking Strategies to Enable Digital Manufacturing in
-                  Silicon Valley Construction Firms: A Comparative Case Study},
-  author       = {Hall, Daniel M and Whyte, Jennifer K and Lessing, Jerker},
-  journaltitle = {Construction Management and Economics},
-  publisher    = {Routledge},
-  volume       = {38},
-  issue        = {4},
-  pages        = {322--339},
-  date         = {2020-04-02},
-  doi          = {10.1080/01446193.2019.1656814},
-  issn         = {0144-6193},
-  abstract     = {In construction, the mirroring of knowledge with tasks
-                  increasingly limits firm-level abilities to identify and
-                  pursue systemic innovation opportunities. Recent research
-                  identifies how integration strategies enable individual
-                  projects to break from this trap, but much less is known about
-                  potential strategic action of firms to enable systemic
-                  innovation. To explore this, a longitudinal comparative case
-                  study examines how three entrepreneurial firms ? DPR
-                  construction, RAD Urban, and Project Frog ? in the San
-                  Francisco Bay Area describe their own strategic evolution and
-                  restructuring of firm boundaries over the past five years to
-                  enable greater adoption of digital manufacturing. Each firm
-                  has developed a different approach ? relational, project-based
-                  spinoff; vertical integration; or digital systems integration.
-                  Benefits and challenges are identified for each. The
-                  approaches are theorized as a form of strategic
-                  mirror-breaking intended to redefine the current paradigm of
-                  knowledge and task dependencies. They enable the firms to
-                  develop products with new system architectures and access more
-                  opportunities for innovation in digitally-enabled
-                  manufacturing. The paper concludes with discussion of how the
-                  identification and characterization of strategies for
-                  mirror-breaking enriches understanding of integration for
-                  systemic innovation in construction at the firm level. The
-                  paper identifies common themes for digitally-enabled
-                  manufacturing including the limitations of the current
-                  industry structure, the emergence of new hybrid positions, and
-                  the opportunity for platforms to provide longitudinal
-                  integration.},
-  url          = {https://doi.org/10.1080/01446193.2019.1656814},
-  keywords     = {AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Technological
-                  change;\_In Notion;\_In Readwise;\_New Literature}
-}
-
-@AUDIO{Dubner2023-jy,
-  title     = {Why Is It So Hard (and Expensive) to Build Anything in America?},
-  author    = {Dubner, Stephen J},
-  editora   = {Kulman, Alina},
-  editorb   = {Buckley, Vaughan and Dossick, Carrie Sturts and Glaeser, Ed and
-               Hough, Michael and Rupnik, Ivan and Syverson, Chad},
-  publisher = {Freakonomics Radio},
-  number    = {566},
-  date      = {2023-11-22},
-  series    = {Freakonomics Radio},
-  url       = {https://freakonomics.com/podcast/why-is-it-so-hard-and-expensive-to-build-anything-in-america/},
-  keywords  = {Freakonomics Radio;AEC Cited Lit for Jacqui;\_BibTex to MD
-               Git;AEC;Economics;Podcast;\_Cataloged;\_In ClickUp;\_Mark Up}
-}
-
-@ARTICLE{Whyte2022-my,
-  title        = {Making Futures That Matter: Future Making, Online Working and
-                  Organizing Remotely},
-  author       = {Whyte, Jennifer K and Comi, Alice and Mosca, Luigi},
-  journaltitle = {Organization Theory},
-  publisher    = {SAGE Publications},
-  volume       = {3},
-  issue        = {1},
-  pages        = {26317877211069138},
-  date         = {2022-01-01},
-  doi          = {10.1177/26317877211069138},
-  issn         = {2631-7877},
-  abstract     = {Future making is the work of making sense of possible and
-                  probable futures, and evaluating, negotiating and giving form
-                  to preferred ones. Practices of making futures are
-                  increasingly online. Yet, as organizational participants come
-                  together online ? organizing remotely to make offline futures
-                  ? they lack the shared experiential knowledge that is gained
-                  through embodied and situated practices. In this essay, we
-                  argue that the lack of experiential knowledge makes future
-                  making online difficult to organize and vulnerable to
-                  excluding relevant expertise; dialogue may become
-                  inward-looking and self-referential within the online
-                  environment, with an emotional and cognitive distance from the
-                  futures being made outside of such representations. We draw on
-                  the pragmatist tradition to theorize online future making, to
-                  articulate its dynamics and the challenges that arise, and to
-                  suggest remedial actions. By conceptualizing future making as
-                  a form of inquiry ? as a distributed and reflective process
-                  that proceeds through engagement with representations of the
-                  future ? we identify three remedial actions for online future
-                  making: to solicit feedback, juxtapose alternatives and change
-                  medium. These remedial actions seek to compensate for the lack
-                  of shared experiential knowledge by both sustaining the online
-                  involvement of heterogeneous remote participants and by
-                  bringing in relevant (offline) places, people and materials to
-                  online future making.},
-  url          = {https://journals.sagepub.com/doi/full/10.1177/26317877211069138},
-  keywords     = {AEC Cited Lit for Jacqui;Future of Work;\_BibTex to MD
-                  Git;\_In Notion;\_In Readwise;Future of Work;\_New Literature}
-}
-
-@ARTICLE{Zhou2023-nw,
-  title        = {How the reliability of external competences shapes the
-                  modularization strategies of industrialized construction firms},
-  author       = {Zhou, Shanjing (alexander) and Mosca, Luigi and Whyte,
-                  Jennifer K},
-  journaltitle = {Construction Management and Economics},
-  publisher    = {Routledge},
-  volume       = {41},
-  issue        = {7},
-  pages        = {608--619},
-  date         = {2023-07-03},
-  doi          = {10.1080/01446193.2023.2187071},
-  issn         = {0144-6193},
-  abstract     = {Firms modularize as they move into industrialized
-                  construction. Prior research highlights the importance of
-                  their modularization strategies, arguing that firms can either
-                  build the competence for modularization internally or can
-                  source them externally. To understand what shapes a firm?s
-                  choice to use external competences in its modularization
-                  strategy, we studied three leading construction firms. In this
-                  multiple case study, Alpha, Beta and Gamma are leaders in
-                  Asian markets, using reinforced concrete solutions in
-                  high-rise industrialized construction. Where external
-                  competences are available, our analyses show the work firms do
-                  to make them reliable and that their choice to use external
-                  competences is shaped by their reliability. Alpha modularized
-                  in a context with little available external competences, so it
-                  built new competences in-house; Beta chose to use the
-                  externally available manufacturing and assembly competences,
-                  using standards, remote monitoring and control of product
-                  architectures to make them reliable for their use in
-                  modularization; Gamma had available competences in the
-                  external context and initially sought to use them, but
-                  reliability concerns led to it modularizing by acquiring the
-                  firms to bring these competences in-house. Our contribution is
-                  to show how ensuring the reliability of external competences
-                  shapes modularization strategies. Further, we have identified
-                  actions that firms can adopt to make external competences
-                  reliable through: (1) use of international standards, (2)
-                  quality control procedures, (3) control of product
-                  architectures, and 4) acquisition of external competences. We
-                  provide implications for practitioners and policy makers
-                  seeking to transition to industrialized construction; and
-                  discuss new areas for research.},
-  url          = {https://www.tandfonline.com/doi/full/10.1080/01446193.2023.2187071},
-  keywords     = {AEC Cited Lit for Jacqui;\_BibTex to MD Git}
-}
-
 @DATASET{Bureau_of_Labor_Statistics2021-ge,
   title         = {Unemployment Level – Construction (2000-2021)},
   author        = {{Bureau of Labor Statistics}},
@@ -687,63 +238,6 @@
   keywords  = {2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
                Git;AEC;\_XR MR VR AR;Website},
   language  = {en}
-}
-
-@REPORT{Bryer2021-cn,
-  type        = {resreport},
-  title       = {{CITB} Construction Skills Network 5-year Outlook 2021-2025},
-  author      = {Bryer, Lee and Hill, Ian},
-  institution = {Construction Industry Training Board},
-  date        = {2021-06-07},
-  pagetotal   = {46},
-  url         = {https://www.citb.co.uk/about-citb/construction-industry-research-reports/construction-skills-network-csn-2021-25/},
-  keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
-                 2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
-                 MD Git;Cited for Frontiers;AEC}
-}
-
-@ARTICLE{Sparks2009-cr,
-  title        = {Advanced Entry Adult Apprenticeship Training Scheme: A Case
-                  Study},
-  author       = {Sparks, Alan and Ingram, Hadyn and Phillips, Sunny},
-  journaltitle = {Education + Training},
-  volume       = {51},
-  issue        = {3},
-  pages        = {190--202},
-  date         = {2009},
-  doi          = {10.1108/00400910910960722},
-  url          = {http://dx.doi.org/10.1108/00400910910960722},
-  keywords     = {Zotero Import (Feb 22);My Library;2021-12-03
-                  Frontiers;Frontiers import [Aug 11];Journal
-                  Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
-                  to MD Git;\_Mark Up;AEC;VET;Workplace Learning}
-}
-
-@REPORT{USG_Corporation2019-me,
-  type        = {resreport},
-  title       = {{Q4} 2019 Commercial Construction Index},
-  author      = {{USG Corporation} and {United States Chamber of Commerce} and
-                 {Dodge Data & Analytics}},
-  institution = {USG Corporation},
-  date        = {2019-12},
-  keywords    = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Data
-                 Stats Figures;2\_Upgrade MAY 2023;AEC Cited Lit for
-                 Jacqui;\_BibTex to MD Git;AEC}
-}
-
-@REPORT{Associated-General-Contractors2019-fv,
-  type        = {resreport},
-  title       = {Eighty Percent Of Contractors Report Difficulty Finding
-                 Qualified Craft Workers To Hire As Firms Give Low Marks To
-                 Quality Of New Worker Pipeline},
-  author      = {{Associated General Contractors}},
-  institution = {Associated General Contractors of America},
-  date        = {2019-08},
-  url         = {https://www.agc.org/news/2019/08/27/eighty-percent-contractors-report-difficulty-finding-qualified-craft-workers-hire-0},
-  keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
-                 Frontiers;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex
-                 to MD Git;AEC}
 }
 
 @ARTICLE{Shanbari2019-ig,
@@ -824,6 +318,63 @@
                   2023;Journal Articles;AEC Cited Lit for Jacqui;TCOT
                   2024;\_BibTex to MD Git;AEC;\_XR MR VR AR;\_Mark Up;\_In
                   Notion}
+}
+
+@REPORT{Bryer2021-cn,
+  type        = {resreport},
+  title       = {{CITB} Construction Skills Network 5-year Outlook 2021-2025},
+  author      = {Bryer, Lee and Hill, Ian},
+  institution = {Construction Industry Training Board},
+  date        = {2021-06-07},
+  pagetotal   = {46},
+  url         = {https://www.citb.co.uk/about-citb/construction-industry-research-reports/construction-skills-network-csn-2021-25/},
+  keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
+                 Frontiers;Frontiers [2022];UCL Poster Q1 2023;2\_Upgrade MAY
+                 2023;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to
+                 MD Git;Cited for Frontiers;AEC}
+}
+
+@ARTICLE{Sparks2009-cr,
+  title        = {Advanced Entry Adult Apprenticeship Training Scheme: A Case
+                  Study},
+  author       = {Sparks, Alan and Ingram, Hadyn and Phillips, Sunny},
+  journaltitle = {Education + Training},
+  volume       = {51},
+  issue        = {3},
+  pages        = {190--202},
+  date         = {2009},
+  doi          = {10.1108/00400910910960722},
+  url          = {http://dx.doi.org/10.1108/00400910910960722},
+  keywords     = {Zotero Import (Feb 22);My Library;2021-12-03
+                  Frontiers;Frontiers import [Aug 11];Journal
+                  Articles;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
+                  to MD Git;\_Mark Up;AEC;VET;Workplace Learning}
+}
+
+@REPORT{USG_Corporation2019-me,
+  type        = {resreport},
+  title       = {{Q4} 2019 Commercial Construction Index},
+  author      = {{USG Corporation} and {United States Chamber of Commerce} and
+                 {Dodge Data & Analytics}},
+  institution = {USG Corporation},
+  date        = {2019-12},
+  keywords    = {Zotero Import (Feb 22);My Library;2021-12-03 Frontiers;Data
+                 Stats Figures;2\_Upgrade MAY 2023;AEC Cited Lit for
+                 Jacqui;\_BibTex to MD Git;AEC}
+}
+
+@REPORT{Associated-General-Contractors2019-fv,
+  type        = {resreport},
+  title       = {Eighty Percent Of Contractors Report Difficulty Finding
+                 Qualified Craft Workers To Hire As Firms Give Low Marks To
+                 Quality Of New Worker Pipeline},
+  author      = {{Associated General Contractors}},
+  institution = {Associated General Contractors of America},
+  date        = {2019-08},
+  url         = {https://www.agc.org/news/2019/08/27/eighty-percent-contractors-report-difficulty-finding-qualified-craft-workers-hire-0},
+  keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
+                 Frontiers;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex
+                 to MD Git;AEC}
 }
 
 @REPORT{Buckley2020-ir,
@@ -1313,6 +864,28 @@
                   MD Git;AEC;Workplace Learning;\_Mark Up;\_Cataloged}
 }
 
+@REPORT{Pothier2019-fn,
+  type        = {resreport},
+  title       = {Industrialized Construction in Academia},
+  author      = {Pothier, Debra and Sawhney, Anil},
+  institution = {Autodesk},
+  date        = {2019-06-11},
+  pagetotal   = {30},
+  keywords    = {Autodesk;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex
+                 to MD Git;AEC;Report}
+}
+
+@REPORT{Pothier2020-kd,
+  type        = {resreport},
+  title       = {Future of Work in Construction},
+  author      = {Pothier, Debra and Sawhney, Anil},
+  institution = {Autodesk},
+  date        = {2020-06-03},
+  pagetotal   = {21},
+  keywords    = {Autodesk;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex
+                 to MD Git;AEC;Report}
+}
+
 @BOOK{Weber-Lewerenz2022-ow,
   title     = {Accents of Added Value in Construction 4.0: Ethical Observations
                in Dealing With Digitization and {AI}},
@@ -1338,28 +911,6 @@
   language  = {en}
 }
 
-@REPORT{Meisels2022-rj,
-  type        = {resreport},
-  title       = {2023 Engineering and Construction Industry Outlook},
-  author      = {Meisels, Michelle and Wellener, Paul and Hardin, Kate},
-  editorb     = {Hussain, Aijaz and Joshi, Anuradha},
-  institution = {Deloitte},
-  date        = {2022-11-11},
-  pagetotal   = {12},
-  keywords    = {Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC Cited
-                 Lit for Jacqui;\_BibTex to MD Git;AEC}
-}
-
-@INPROCEEDINGS{Yeni-Letsoko2019-ie,
-  title    = {Industry 4.0 and its impact on skills development on built
-              environment professionals: A South African perspective},
-  author   = {Yeni-Letsoko, Vuyiswa and Pillay, Nischolan},
-  date     = {2019},
-  keywords = {Construction 4-0;2\_Upgrade MAY 2023;AEC Cited Lit for
-              Jacqui;\_BibTex to MD Git;\_In Notion;\_In
-              Readwise;AEC;Labor;Skill demand}
-}
-
 @REPORT{Cole2023-zp,
   type        = {resreport},
   title       = {Modular Labour Report 2023},
@@ -1375,26 +926,26 @@
                  Labour Crisis}
 }
 
-@REPORT{Pothier2019-fn,
-  type        = {resreport},
-  title       = {Industrialized Construction in Academia},
-  author      = {Pothier, Debra and Sawhney, Anil},
-  institution = {Autodesk},
-  date        = {2019-06-11},
-  pagetotal   = {30},
-  keywords    = {Autodesk;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex
-                 to MD Git;AEC;Report}
+@INPROCEEDINGS{Yeni-Letsoko2019-ie,
+  title    = {Industry 4.0 and its impact on skills development on built
+              environment professionals: A South African perspective},
+  author   = {Yeni-Letsoko, Vuyiswa and Pillay, Nischolan},
+  date     = {2019},
+  keywords = {Construction 4-0;2\_Upgrade MAY 2023;AEC Cited Lit for
+              Jacqui;\_BibTex to MD Git;\_In Notion;\_In
+              Readwise;AEC;Labor;Skill demand}
 }
 
-@REPORT{Pothier2020-kd,
+@REPORT{Meisels2022-rj,
   type        = {resreport},
-  title       = {Future of Work in Construction},
-  author      = {Pothier, Debra and Sawhney, Anil},
-  institution = {Autodesk},
-  date        = {2020-06-03},
-  pagetotal   = {21},
-  keywords    = {Autodesk;2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex
-                 to MD Git;AEC;Report}
+  title       = {2023 Engineering and Construction Industry Outlook},
+  author      = {Meisels, Michelle and Wellener, Paul and Hardin, Kate},
+  editorb     = {Hussain, Aijaz and Joshi, Anuradha},
+  institution = {Deloitte},
+  date        = {2022-11-11},
+  pagetotal   = {12},
+  keywords    = {Deloitte - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC Cited
+                 Lit for Jacqui;\_BibTex to MD Git;AEC}
 }
 
 @PHDTHESIS{Jadallah2021-bu,
@@ -1501,40 +1052,6 @@
                   Up;\_Cataloged}
 }
 
-@THESIS{Crayne2021-jq,
-  title       = {Analyzing the Causes of Labor Shortage in the Commercial
-                 Carpentry Trades in the San Francisco Bay Area},
-  author      = {Crayne, Jack},
-  institution = {California Polytechnic State University, San Luis Obispo},
-  date        = {2021},
-  abstract    = {Skilled labor is vital to the success of any construction
-                 project, and no contractor would be able to operate without the
-                 skilled laborers that they employ. The construction industry
-                 has been subject to a shortage of skilled labor for the last
-                 two decades for many reasons, including the poor image of
-                 construction workers among the public, inadequate training
-                 measures, and an aging workforce. Reviewing the literature on
-                 the matter shows that the leading cause of shortage is low pay
-                 and increasing age of the workforce overall, while the demand
-                 for labor grows at a faster rate than the supply of labor
-                 grows. Poor worker retention practices were also identified as
-                 a cause for shortage and a reason for workers leaving the
-                 industry, and proper retention tactics are assessed, including
-                 monetary and non-monetary considerations for workers in order
-                 to foster a better employer-employee relationship. Recruiting
-                 practices among labor unions and contractors are also assessed
-                 through interviews and research, with the results suggesting
-                 that a greater emphasis should be put on improving the image of
-                 construction workers in the public eye, increasing the prestige
-                 of a job in construction and leading to increased participation
-                 in the construction industry among young people.},
-  url         = {https://digitalcommons.calpoly.edu/cmsp/456/},
-  urldate     = {2023-04-22},
-  keywords    = {2\_Upgrade MAY 2023;Construction 4-0;00\_TO READ;3\_Upgrade OCT
-                 2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Labor;\_In
-                 Notion;\_In Readwise;\_New Literature;\_In ClickUp}
-}
-
 @ARTICLE{Goulding2012-op,
   title        = {Construction industry offsite production: A virtual reality
                   interactive training environment prototype},
@@ -1621,6 +1138,40 @@
                Case Studies;Reviewed on Theory;2\_Upgrade MAY 2023;EPubs
                Books;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Research
                Methods;UCL;ePub;\_Mark Up;\_In ClickUp;Book (child)}
+}
+
+@THESIS{Crayne2021-jq,
+  title       = {Analyzing the Causes of Labor Shortage in the Commercial
+                 Carpentry Trades in the San Francisco Bay Area},
+  author      = {Crayne, Jack},
+  institution = {California Polytechnic State University, San Luis Obispo},
+  date        = {2021},
+  abstract    = {Skilled labor is vital to the success of any construction
+                 project, and no contractor would be able to operate without the
+                 skilled laborers that they employ. The construction industry
+                 has been subject to a shortage of skilled labor for the last
+                 two decades for many reasons, including the poor image of
+                 construction workers among the public, inadequate training
+                 measures, and an aging workforce. Reviewing the literature on
+                 the matter shows that the leading cause of shortage is low pay
+                 and increasing age of the workforce overall, while the demand
+                 for labor grows at a faster rate than the supply of labor
+                 grows. Poor worker retention practices were also identified as
+                 a cause for shortage and a reason for workers leaving the
+                 industry, and proper retention tactics are assessed, including
+                 monetary and non-monetary considerations for workers in order
+                 to foster a better employer-employee relationship. Recruiting
+                 practices among labor unions and contractors are also assessed
+                 through interviews and research, with the results suggesting
+                 that a greater emphasis should be put on improving the image of
+                 construction workers in the public eye, increasing the prestige
+                 of a job in construction and leading to increased participation
+                 in the construction industry among young people.},
+  url         = {https://digitalcommons.calpoly.edu/cmsp/456/},
+  urldate     = {2023-04-22},
+  keywords    = {2\_Upgrade MAY 2023;Construction 4-0;00\_TO READ;3\_Upgrade OCT
+                 2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Labor;\_In
+                 Notion;\_In Readwise;\_New Literature;\_In ClickUp}
 }
 
 @INBOOK{Casini2022-zx,
@@ -2125,6 +1676,23 @@
                   Notion;\_In Readwise;AEC;Important;\_New Literature}
 }
 
+@INBOOK{Hairstans2019-ei,
+  title     = {Core Offsite Manufacture Industry Drivers},
+  author    = {Hairstans, Robert and Duncheva, Tsvetomila A},
+  booktitle = {Offsite Production and Manufacturing for Innovative Construction},
+  publisher = {Routledge},
+  location  = {Abingdon, Oxon ; New York, NY : Routledge, 2019.},
+  pages     = {257--284},
+  date      = {2019-06-19},
+  doi       = {10.1201/9781315147321-11},
+  isbn      = {9781315147321},
+  url       = {http://dx.doi.org/10.1201/9781315147321-11},
+  keywords  = {Construction 4-0;2\_Upgrade MAY 2023;Offsite Production and
+               Manufacturing for Innovative Construction;AEC Cited Lit for
+               Jacqui;\_BibTex to MD Git;\_New Literature;\_In Notion;\_In
+               Readwise;AEC;Cross Ref Chapter;Essential}
+}
+
 @ARTICLE{King_Chun2012-rk,
   title        = {The use of virtual prototyping for hazard identification in
                   the early design stage},
@@ -2177,23 +1745,6 @@
   language     = {en}
 }
 
-@INBOOK{Hairstans2019-ei,
-  title     = {Core Offsite Manufacture Industry Drivers},
-  author    = {Hairstans, Robert and Duncheva, Tsvetomila A},
-  booktitle = {Offsite Production and Manufacturing for Innovative Construction},
-  publisher = {Routledge},
-  location  = {Abingdon, Oxon ; New York, NY : Routledge, 2019.},
-  pages     = {257--284},
-  date      = {2019-06-19},
-  doi       = {10.1201/9781315147321-11},
-  isbn      = {9781315147321},
-  url       = {http://dx.doi.org/10.1201/9781315147321-11},
-  keywords  = {Construction 4-0;2\_Upgrade MAY 2023;Offsite Production and
-               Manufacturing for Innovative Construction;AEC Cited Lit for
-               Jacqui;\_BibTex to MD Git;\_New Literature;\_In Notion;\_In
-               Readwise;AEC;Cross Ref Chapter;Essential}
-}
-
 @ARTICLE{Bertram2019-rb,
   title        = {Modular Construction: From Projects to Products},
   author       = {Bertram, Nick and Fuchs, Steffen and Mischke, Jan and Palter,
@@ -2218,6 +1769,21 @@
                   - McKinsey - EY - PWC;3\_Upgrade OCT 2023;AEC Cited Lit for
                   Jacqui;\_BibTex to MD Git;AEC;\_Mark Up;\_Cataloged;\_In
                   ClickUp}
+}
+
+@ONLINE{Smith2016-mk,
+  title     = {Off-Site and Modular Construction Explained},
+  author    = {Smith, Ryan E},
+  booktitle = {Whole Building' Design Guide, National Institute of Building
+               Sciences},
+  publisher = {National Institute of Building Sciences},
+  date      = {2016-08-09},
+  url       = {https://www.wbdg.org/resources/site-and-modular-construction-explained},
+  urldate   = {2023-02-08},
+  keywords  = {Construction 4-0;Notion Catalogued;2\_Upgrade MAY 2023;AEC Cited
+               Lit for Jacqui;\_BibTex to MD Git;\_Cataloged;AEC;Readwise
+               Reader;Website},
+  language  = {en}
 }
 
 @ARTICLE{Lundberg2015-ut,
@@ -2263,21 +1829,6 @@
                   management system; platforms;Construction 4-0;2\_Upgrade MAY
                   2023;Journal Articles;AEC Cited Lit for Jacqui;\_BibTex to MD
                   Git;\_In Notion;\_In Readwise;AEC;\_New Literature;Economics}
-}
-
-@ONLINE{Smith2016-mk,
-  title     = {Off-Site and Modular Construction Explained},
-  author    = {Smith, Ryan E},
-  booktitle = {Whole Building' Design Guide, National Institute of Building
-               Sciences},
-  publisher = {National Institute of Building Sciences},
-  date      = {2016-08-09},
-  url       = {https://www.wbdg.org/resources/site-and-modular-construction-explained},
-  urldate   = {2023-02-08},
-  keywords  = {Construction 4-0;Notion Catalogued;2\_Upgrade MAY 2023;AEC Cited
-               Lit for Jacqui;\_BibTex to MD Git;\_Cataloged;AEC;Readwise
-               Reader;Website},
-  language  = {en}
 }
 
 @ARTICLE{Kozlovska2021-iz,
@@ -2668,6 +2219,43 @@
   language  = {en}
 }
 
+@INPROCEEDINGS{Ras2017-fv,
+  title      = {Bridging the Skills Gap of Workers in Industry 4.0 by Human
+                Performance Augmentation Tools},
+  author     = {Ras, Eric and Wild, Fridolin and Stahl, Christoph and Baudet,
+                Alexandre},
+  booktitle  = {Proceedings of the 10th International Conference on PErvasive
+                Technologies Related to Assistive Environments},
+  publisher  = {Association for Computing Machinery},
+  location   = {New York, NY, USA},
+  eventtitle = {PETRA '17: 10th International Conference on PErvasive
+                Technologies Related to Assistive Environments},
+  venue      = {Island of Rhodes Greece},
+  date       = {2017-06-21},
+  doi        = {10.1145/3056540.3076192},
+  isbn       = {9781450352277},
+  url        = {http://dx.doi.org/10.1145/3056540.3076192},
+  keywords   = {Construction 4-0;UCL Poster Q1 2023;2\_Upgrade MAY 2023;Notion
+                Catalogued;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
+                to MD Git;AEC;\_Mark Up;\_Cataloged;\_In ClickUp}
+}
+
+@REPORT{Ribeirinho2020-mq,
+  type        = {techreport},
+  title       = {The Next Normal in Construction: How Disruption is Reshaping
+                 the World’s Largest Ecosystem},
+  author      = {Ribeirinho, Maria João and Mischke, Jan and Strube, Gernot and
+                 Sjödin, Erik and Biörck, Jonas and Anderson, Timmy and Blanco,
+                 Jose Luis and Palter, Rob},
+  publisher   = {McKinsey Insights},
+  institution = {McKinsey \& Company},
+  date        = {2020-06-04},
+  pagetotal   = {90},
+  keywords    = {Construction 4-0;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
+                 PWC;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+                 Notion;\_In Readwise;AEC;\_New Literature}
+}
+
 @BOOK{Casini2022-yp,
   title     = {Construction 4.0: Advanced Technology, Tools and Materials for
                the Digital Transformation of the Construction Industry},
@@ -2725,43 +2313,6 @@
                Jacqui;\_BibTex to MD Git;\_In
                Readwise;AEC;Essential;\_Cataloged;\_In ClickUp;Cross Ref Chapter},
   language  = {en}
-}
-
-@INPROCEEDINGS{Ras2017-fv,
-  title      = {Bridging the Skills Gap of Workers in Industry 4.0 by Human
-                Performance Augmentation Tools},
-  author     = {Ras, Eric and Wild, Fridolin and Stahl, Christoph and Baudet,
-                Alexandre},
-  booktitle  = {Proceedings of the 10th International Conference on PErvasive
-                Technologies Related to Assistive Environments},
-  publisher  = {Association for Computing Machinery},
-  location   = {New York, NY, USA},
-  eventtitle = {PETRA '17: 10th International Conference on PErvasive
-                Technologies Related to Assistive Environments},
-  venue      = {Island of Rhodes Greece},
-  date       = {2017-06-21},
-  doi        = {10.1145/3056540.3076192},
-  isbn       = {9781450352277},
-  url        = {http://dx.doi.org/10.1145/3056540.3076192},
-  keywords   = {Construction 4-0;UCL Poster Q1 2023;2\_Upgrade MAY 2023;Notion
-                Catalogued;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex
-                to MD Git;AEC;\_Mark Up;\_Cataloged;\_In ClickUp}
-}
-
-@REPORT{Ribeirinho2020-mq,
-  type        = {techreport},
-  title       = {The Next Normal in Construction: How Disruption is Reshaping
-                 the World’s Largest Ecosystem},
-  author      = {Ribeirinho, Maria João and Mischke, Jan and Strube, Gernot and
-                 Sjödin, Erik and Biörck, Jonas and Anderson, Timmy and Blanco,
-                 Jose Luis and Palter, Rob},
-  publisher   = {McKinsey Insights},
-  institution = {McKinsey \& Company},
-  date        = {2020-06-04},
-  pagetotal   = {90},
-  keywords    = {Construction 4-0;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
-                 PWC;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
-                 Notion;\_In Readwise;AEC;\_New Literature}
 }
 
 @ARTICLE{Jones2022-kp,
@@ -2835,38 +2386,6 @@
   language     = {en}
 }
 
-@INBOOK{Aitchison2017-ps,
-  title     = {Prefabricated Housing in Architectural Culture},
-  author    = {Aitchison, Mathew and Macarthur, John},
-  editor    = {Smith, Ryan E and Quale, John D},
-  booktitle = {Offsite Architecture: Constructing the Future},
-  publisher = {Routledge},
-  location  = {New York : Routledge, 2016.},
-  pages     = {77--89},
-  date      = {2017-03-16},
-  doi       = {10.4324/9781315743332-5},
-  isbn      = {9781315743332},
-  abstract  = {Architects have long been fascinated by the promise of
-               prefabricated and modular building, in particular housing, and
-               even more so the individual detached house. The ‘prefab’ house
-               combines the promise of industrialised building with the dream of
-               a popular mass market for architecture, and it has exercised a
-               magnetism over architectural culture which is as strong today as
-               it was at any point in the past. The interest originated in the
-               mid-nineteenth century, but achieved a strong uptake in the early
-               to mid-twentieth century, and has continued in a cyclical pattern
-               up to the present day. This chapter describes this fascination
-               with the prefab house and discusses some of the complications
-               that have plagued its translation into real outcomes. As the
-               history of twentieth-century architect-led prefabricated housing
-               illustrates, architecture has tended to co-opt industrial
-               advances to support existing ideologies.},
-  url       = {https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-5},
-  keywords  = {Offsite Architecture: Constructing the Future;AEC Cited Lit for
-               Jacqui;\_BibTex to MD Git;EPubs Books;\_In ClickUp;\_In
-               Notion;\_In Readwise;AEC;ePub;Book (child)}
-}
-
 @INBOOK{Smith2017-ff,
   title     = {Offsite Construction in Education: A Survey of Prefabrication in
                Design and Construction Academia},
@@ -2900,6 +2419,38 @@
   keywords  = {Offsite Architecture: Constructing the Future;3\_Upgrade OCT
                2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;EPubs Books;\_In
                ClickUp;\_In Notion;\_In Readwise;ePub;Book (child)}
+}
+
+@INBOOK{Aitchison2017-ps,
+  title     = {Prefabricated Housing in Architectural Culture},
+  author    = {Aitchison, Mathew and Macarthur, John},
+  editor    = {Smith, Ryan E and Quale, John D},
+  booktitle = {Offsite Architecture: Constructing the Future},
+  publisher = {Routledge},
+  location  = {New York : Routledge, 2016.},
+  pages     = {77--89},
+  date      = {2017-03-16},
+  doi       = {10.4324/9781315743332-5},
+  isbn      = {9781315743332},
+  abstract  = {Architects have long been fascinated by the promise of
+               prefabricated and modular building, in particular housing, and
+               even more so the individual detached house. The ‘prefab’ house
+               combines the promise of industrialised building with the dream of
+               a popular mass market for architecture, and it has exercised a
+               magnetism over architectural culture which is as strong today as
+               it was at any point in the past. The interest originated in the
+               mid-nineteenth century, but achieved a strong uptake in the early
+               to mid-twentieth century, and has continued in a cyclical pattern
+               up to the present day. This chapter describes this fascination
+               with the prefab house and discusses some of the complications
+               that have plagued its translation into real outcomes. As the
+               history of twentieth-century architect-led prefabricated housing
+               illustrates, architecture has tended to co-opt industrial
+               advances to support existing ideologies.},
+  url       = {https://www.taylorfrancis.com/books/9781317588825/chapters/10.4324/9781315743332-5},
+  keywords  = {Offsite Architecture: Constructing the Future;AEC Cited Lit for
+               Jacqui;\_BibTex to MD Git;EPubs Books;\_In ClickUp;\_In
+               Notion;\_In Readwise;AEC;ePub;Book (child)}
 }
 
 @INBOOK{Rupnik2017-gx,
@@ -3221,6 +2772,456 @@
   keywords  = {Construction 4-0;Notion Catalogued;AEC Cited Lit for
                Jacqui;\_BibTex to MD Git;UCL;AEC;\_Mark Up;\_In
                Readwise;\_Cataloged;\_In ClickUp}
+}
+
+@BOOK{Smith2017-zx,
+  title     = {Offsite Architecture: Constructing the Future},
+  editor    = {Smith, Ryan E and Quale, John D},
+  editorb   = {Richard, Roger-Bruno and Vibæk, Kasper Sánchez and Bundgaard,
+               Charlotte and Rupnik, Ivan and Aitchison, Mathew and Macarthur,
+               John and Rice, Talbot and Elliott, Jonathan W and Grosskopf,
+               Kevin and Ku, Kihong and Broadstone, Paul and Buntrock, Dana and
+               Lidelöw, Helena and Hairstans, Robert and Sanna, Fausto},
+  publisher = {Routledge},
+  date      = {2017-03-16},
+  pagetotal = {308},
+  doi       = {10.4324/9781315743332},
+  isbn      = {9781317588818},
+  abstract  = {Architects have been intrigued by prefabricated construction
+               since the early twentieth century. Recent advances in design,
+               engineering and manufacturing processes have led to a significant
+               expansion in the use of pre-assembled components, which are
+               fitted to finished structures on site. Collectively, such
+               processes are becoming known as *offsite construction*. A
+               ground-breaking text, Offsite Architecture establishes the
+               current – and future – state of thinking in this field. A range
+               of the most highly regarded thinkers and practitioners from
+               around the globe share their ideas and practical findings on
+               offsite prefabrication, examining theory and practice,
+               opportunities and challenges, successes and failures. A timely
+               response to the growing interest in this method, the book
+               provides the fundamental basis for a critical, reflective
+               approach to offsite architecture. Contributions from both
+               academics and professionals make Offsite Architecture required
+               reading for practitioners as well as students taking courses in
+               architecture, prefabrication, construction and engineering.},
+  url       = {https://www.taylorfrancis.com/books/edit/10.4324/9781315743332/offsite-architecture-ryan-smith-john-quale},
+  keywords  = {Construction 4-0;Notion Catalogued;2\_Upgrade MAY 2023;00\_TO
+               READ;Offsite Architecture: Constructing the Future;EPubs
+               Books;AEC Cited Lit for Jacqui;\_BibTex to MD
+               Git;AEC;ePub;Essential;Important;\_Mark Up;\_Cataloged;\_In
+               ClickUp},
+  language  = {en}
+}
+
+@MISC{Yang2023-qm,
+  title        = {Where did the workers go? Construction jobs are plentiful, but
+                  workers are scarce},
+  author       = {Yang, Mary},
+  journaltitle = {National Public Radio},
+  publisher    = {NPR},
+  date         = {2023-04-06},
+  abstract     = {Biden administration stimulus money pledged billions in
+                  funding for public works projects across the U.S. But
+                  contractors say they can't find enough workers to fix all the
+                  roads and bridges.},
+  url          = {https://www.npr.org/2023/04/06/1158576556/where-did-the-workers-go-construction-jobs-are-plentiful-but-workers-are-scarce},
+  urldate      = {2023-09-29},
+  keywords     = {3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+                  Git;Readwise Reader;Website;Labor;Statistics;\_Mark Up;AEC}
+}
+
+@MISC{Tucker1999-ml,
+  title     = {Key Workforce Challenges Facing the American Construction
+               Industry: An Interim Assessment},
+  author    = {Tucker, Richard L and Haas, Carl T and Glover, Robert W and
+               Alemany, Christine and Carley, Lynn Anne and Rodriguez, Ana Maria
+               and Shields, David},
+  publisher = {Center for Construction Industry Studies, The University of Texas
+               at Austin},
+  date      = {1999},
+  doi       = {10.26153/TSW/41160},
+  abstract  = {This report has three purposes. First, it serves as a primer on
+               the nature and state of today's construction workforce and how it
+               has developed over time. Second, it identifies key workforce
+               issues of concern to industry leaders. Finally, it ,summarizes
+               the findings of existing research and the research of the
+               Workforce Group. This work is motivated by the identified key
+               issues and the problems that they present, and it provides
+               preliminary answers to some of the most important questions that
+               are posed by these problems.},
+  url       = {https://repositories.lib.utexas.edu/handle/2152/114257},
+  keywords  = {3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+               Git;\_In Notion;\_In Readwise;AEC;Labor;\_New Literature},
+  language  = {en}
+}
+
+@MISC{Lidelow2023-sm,
+  title      = {Factory of the Future [Keynote address]},
+  author     = {Lidelöw, Helena},
+  eventtitle = {Industrialized Construction Forum 2023},
+  venue      = {Center for Integrated Facility Engineering, Stanford University,
+                Stanford, CA},
+  date       = {2023-02-07},
+  abstract   = {The keynote speech by Dr. Helene Lidelöw, CTO of Volumetric
+                Building Companies, at the Industrialized Construction Forum
+                2023, focuses on the importance of collaboration, production
+                strategy, platform development, market alignment, and
+                digitalization in the construction industry. Dr. Lidelöw
+                emphasizes the need for collective action and collaboration to
+                drive progress and achieve common goals. She shares insights on
+                standardized products, platform development, and successful
+                modular factories that utilize automation and standardization to
+                increase productivity. Additionally, she highlights the
+                significance of market alignment and digital tools in improving
+                precision and efficiency in production processes. This keynote
+                speech offers valuable insights for driving innovation and
+                success in the industrialized construction industry.},
+  url        = {https://cife.stanford.edu/events/industrialized-construction-forum-2023},
+  keywords   = {Construction 4-0;2\_Upgrade MAY 2023;3\_Upgrade OCT 2023;AEC
+                Cited Lit for Jacqui;\_BibTex to MD Git;AEC}
+}
+
+@REPORT{Barbosa2017-rj,
+  type        = {resreport},
+  title       = {Reinventing construction through a productivity revolution},
+  author      = {Barbosa, Filipe and Woetzel, Jonathan and Mischke, Jan and
+                 Ribeirinho, Maria João and Sridhar, Mukund and Parsons, Matthew
+                 and Bertram, Nick and Brown, Stephanie},
+  institution = {McKinsey Global Institute},
+  date        = {2017-02-27},
+  pagetotal   = {168},
+  url         = {https://www.mckinsey.com/business-functions/operations/our-insights/reinventing-construction-through-a-productivity-revolution},
+  keywords    = {Zotero Import (Feb 22);My Library;2021-12-03
+                 Frontiers;Frontiers [2022];Construction 4-0;UCL Poster Q1
+                 2023;2\_Upgrade MAY 2023;Deloitte - McKinsey - EY -
+                 PWC;3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+                 Git;Cited for Frontiers;AEC}
+}
+
+@REPORT{Renz2016-br,
+  type        = {resreport},
+  title       = {Shaping the Future of Construction: A Breakthrough in Mindset
+                 and Technology},
+  author      = {Renz, Andreas and Solas, Manuel Zafra},
+  editor      = {de Almeida, Pedro Rodrigues and Bühler, Michael},
+  editorb     = {Gerbert, Philipp and Castagnino, Santiago and Rothballer,
+                 Christoph},
+  publisher   = {World Economic Forum},
+  institution = {World Economic Forum},
+  date        = {2016-05-06},
+  pagetotal   = {64},
+  keywords    = {2\_Upgrade MAY 2023;Deloitte - McKinsey - EY - PWC;3\_Upgrade
+                 OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD Git;\_In
+                 Notion;\_In Readwise;AEC;\_New Literature},
+  origdate    = {2016-05-06}
+}
+
+@INBOOK{Assaad2023-ib,
+  title     = {Opportunities and Challenges of Offsite Construction},
+  author    = {Assaad, Rayan H and El-adaway, Islam H and Hastak, Makarand and
+               LaScola Needy, Kim},
+  booktitle = {Lecture Notes in Civil Engineering},
+  publisher = {Springer Nature Singapore},
+  location  = {Singapore},
+  pages     = {555--568},
+  date      = {2023},
+  doi       = {10.1007/978-981-19-1029-6_42},
+  issn      = {2366-2557,2366-2565},
+  isbn      = {9789811910289,9789811910296},
+  url       = {http://dx.doi.org/10.1007/978-981-19-1029-6_42},
+  keywords  = {Construction 4-0;00\_TO READ;3\_Upgrade OCT 2023;AEC Cited Lit
+               for Jacqui;\_BibTex to MD Git;\_In Notion;\_In Readwise;\_New
+               Literature;AEC;Important}
+}
+
+@INBOOK{Smith2019-lv,
+  title     = {Productivity, Innovation and Disruption : A Study of Offsite
+               Construction in the United States},
+  author    = {Smith, Ryan E and Rupnik, Ivan},
+  booktitle = {Offsite Production and Manufacturing for Innovative Construction},
+  publisher = {Routledge},
+  edition   = {1st Edition},
+  pages     = {223--256},
+  date      = {2019-06-19},
+  doi       = {10.1201/9781315147321-10},
+  abstract  = {The lack of productivity in the United States (US) construction
+               sector results in part from little product or service innovation
+               that can create value for the industry. This chapter provides a
+               thick description of business innovation typologies relating to
+               the offsite construction industry in the US. Offsite construction
+               is ‘the process of planning, designing, fabricating,
+               transporting, and assembling building elements for rapid site
+               assembly to a greater degree of finish than in traditional
+               piecemeal on-site construction’. Legislatively, however, the
+               process was more clearly regulated and streamlined, occurring
+               primarily offsite, which helps explain why one in every ten
+               housing units constructed each year today in the US are
+               manufactured homes. The US economy presents new opportunities for
+               permanent modular construction to compete. Disruptive, sustaining
+               and radical innovation have all been proffered as potential
+               solutions to answer the construction sector’s stagnation in
+               productivity and demand for growth.},
+  url       = {https://www.taylorfrancis.com/chapters/edit/10.1201/9781315147321-10/productivity-innovation-disruption-ryan-smith-ivan-rupnik},
+  urldate   = {2023-12-05},
+  keywords  = {Offsite Production and Manufacturing for Innovative
+               Construction;AEC Cited Lit for Jacqui;\_BibTex to MD Git;Cross
+               Ref Chapter;AEC;Workplace Learning;Essential}
+}
+
+@INBOOK{Thuesen2019-fv,
+  title     = {The Impact of Organisational Learning and Change on Offsite
+               Manufacturing},
+  author    = {Thuesen, Christian and Bekdik, Barış},
+  booktitle = {Offsite Production and Manufacturing for Innovative Construction},
+  publisher = {Routledge},
+  location  = {Abingdon, Oxon ; New York, NY : Routledge, 2019.},
+  pages     = {337--358},
+  date      = {2019-06-19},
+  doi       = {10.1201/9781315147321-14},
+  isbn      = {9781315147321},
+  url       = {https://www.taylorfrancis.com/chapters/edit/10.1201/9781315147321-14/impact-organisational-learning-change-offsite-manufacturing-christian-thuesen-bar%C4%B1%C5%9F-bekdik},
+  keywords  = {Offsite Production and Manufacturing for Innovative
+               Construction;Upgrade Viva Prep Reading;AEC Cited Lit for
+               Jacqui;\_BibTex to MD Git;Cross Ref Chapter;AEC;Workplace
+               Learning;Fieldwork Methodology;Research Methods;Essential}
+}
+
+@ARTICLE{Hall2020-iw,
+  title        = {Mirror-breaking Strategies to Enable Digital Manufacturing in
+                  Silicon Valley Construction Firms: A Comparative Case Study},
+  author       = {Hall, Daniel M and Whyte, Jennifer K and Lessing, Jerker},
+  journaltitle = {Construction Management and Economics},
+  publisher    = {Routledge},
+  volume       = {38},
+  issue        = {4},
+  pages        = {322--339},
+  date         = {2020-04-02},
+  doi          = {10.1080/01446193.2019.1656814},
+  issn         = {0144-6193},
+  abstract     = {In construction, the mirroring of knowledge with tasks
+                  increasingly limits firm-level abilities to identify and
+                  pursue systemic innovation opportunities. Recent research
+                  identifies how integration strategies enable individual
+                  projects to break from this trap, but much less is known about
+                  potential strategic action of firms to enable systemic
+                  innovation. To explore this, a longitudinal comparative case
+                  study examines how three entrepreneurial firms ? DPR
+                  construction, RAD Urban, and Project Frog ? in the San
+                  Francisco Bay Area describe their own strategic evolution and
+                  restructuring of firm boundaries over the past five years to
+                  enable greater adoption of digital manufacturing. Each firm
+                  has developed a different approach ? relational, project-based
+                  spinoff; vertical integration; or digital systems integration.
+                  Benefits and challenges are identified for each. The
+                  approaches are theorized as a form of strategic
+                  mirror-breaking intended to redefine the current paradigm of
+                  knowledge and task dependencies. They enable the firms to
+                  develop products with new system architectures and access more
+                  opportunities for innovation in digitally-enabled
+                  manufacturing. The paper concludes with discussion of how the
+                  identification and characterization of strategies for
+                  mirror-breaking enriches understanding of integration for
+                  systemic innovation in construction at the firm level. The
+                  paper identifies common themes for digitally-enabled
+                  manufacturing including the limitations of the current
+                  industry structure, the emergence of new hybrid positions, and
+                  the opportunity for platforms to provide longitudinal
+                  integration.},
+  url          = {https://doi.org/10.1080/01446193.2019.1656814},
+  keywords     = {AEC Cited Lit for Jacqui;\_BibTex to MD Git;AEC;Technological
+                  change;\_In Notion;\_In Readwise;\_New Literature}
+}
+
+@AUDIO{Dubner2023-jy,
+  title     = {Why Is It So Hard (and Expensive) to Build Anything in America?},
+  author    = {Dubner, Stephen J},
+  editora   = {Kulman, Alina},
+  editorb   = {Buckley, Vaughan and Dossick, Carrie Sturts and Glaeser, Ed and
+               Hough, Michael and Rupnik, Ivan and Syverson, Chad},
+  publisher = {Freakonomics Radio},
+  number    = {566},
+  date      = {2023-11-22},
+  series    = {Freakonomics Radio},
+  url       = {https://freakonomics.com/podcast/why-is-it-so-hard-and-expensive-to-build-anything-in-america/},
+  keywords  = {Freakonomics Radio;AEC Cited Lit for Jacqui;\_BibTex to MD
+               Git;AEC;Economics;Podcast;\_Cataloged;\_In ClickUp;\_Mark Up}
+}
+
+@ARTICLE{Whyte2022-my,
+  title        = {Making Futures That Matter: Future Making, Online Working and
+                  Organizing Remotely},
+  author       = {Whyte, Jennifer K and Comi, Alice and Mosca, Luigi},
+  journaltitle = {Organization Theory},
+  publisher    = {SAGE Publications},
+  volume       = {3},
+  issue        = {1},
+  pages        = {26317877211069138},
+  date         = {2022-01-01},
+  doi          = {10.1177/26317877211069138},
+  issn         = {2631-7877},
+  abstract     = {Future making is the work of making sense of possible and
+                  probable futures, and evaluating, negotiating and giving form
+                  to preferred ones. Practices of making futures are
+                  increasingly online. Yet, as organizational participants come
+                  together online ? organizing remotely to make offline futures
+                  ? they lack the shared experiential knowledge that is gained
+                  through embodied and situated practices. In this essay, we
+                  argue that the lack of experiential knowledge makes future
+                  making online difficult to organize and vulnerable to
+                  excluding relevant expertise; dialogue may become
+                  inward-looking and self-referential within the online
+                  environment, with an emotional and cognitive distance from the
+                  futures being made outside of such representations. We draw on
+                  the pragmatist tradition to theorize online future making, to
+                  articulate its dynamics and the challenges that arise, and to
+                  suggest remedial actions. By conceptualizing future making as
+                  a form of inquiry ? as a distributed and reflective process
+                  that proceeds through engagement with representations of the
+                  future ? we identify three remedial actions for online future
+                  making: to solicit feedback, juxtapose alternatives and change
+                  medium. These remedial actions seek to compensate for the lack
+                  of shared experiential knowledge by both sustaining the online
+                  involvement of heterogeneous remote participants and by
+                  bringing in relevant (offline) places, people and materials to
+                  online future making.},
+  url          = {https://journals.sagepub.com/doi/full/10.1177/26317877211069138},
+  keywords     = {AEC Cited Lit for Jacqui;Future of Work;\_BibTex to MD
+                  Git;\_In Notion;\_In Readwise;Future of Work;\_New Literature}
+}
+
+@ARTICLE{Zhou2023-nw,
+  title        = {How the reliability of external competences shapes the
+                  modularization strategies of industrialized construction firms},
+  author       = {Zhou, Shanjing (alexander) and Mosca, Luigi and Whyte,
+                  Jennifer K},
+  journaltitle = {Construction Management and Economics},
+  publisher    = {Routledge},
+  volume       = {41},
+  issue        = {7},
+  pages        = {608--619},
+  date         = {2023-07-03},
+  doi          = {10.1080/01446193.2023.2187071},
+  issn         = {0144-6193},
+  abstract     = {Firms modularize as they move into industrialized
+                  construction. Prior research highlights the importance of
+                  their modularization strategies, arguing that firms can either
+                  build the competence for modularization internally or can
+                  source them externally. To understand what shapes a firm?s
+                  choice to use external competences in its modularization
+                  strategy, we studied three leading construction firms. In this
+                  multiple case study, Alpha, Beta and Gamma are leaders in
+                  Asian markets, using reinforced concrete solutions in
+                  high-rise industrialized construction. Where external
+                  competences are available, our analyses show the work firms do
+                  to make them reliable and that their choice to use external
+                  competences is shaped by their reliability. Alpha modularized
+                  in a context with little available external competences, so it
+                  built new competences in-house; Beta chose to use the
+                  externally available manufacturing and assembly competences,
+                  using standards, remote monitoring and control of product
+                  architectures to make them reliable for their use in
+                  modularization; Gamma had available competences in the
+                  external context and initially sought to use them, but
+                  reliability concerns led to it modularizing by acquiring the
+                  firms to bring these competences in-house. Our contribution is
+                  to show how ensuring the reliability of external competences
+                  shapes modularization strategies. Further, we have identified
+                  actions that firms can adopt to make external competences
+                  reliable through: (1) use of international standards, (2)
+                  quality control procedures, (3) control of product
+                  architectures, and 4) acquisition of external competences. We
+                  provide implications for practitioners and policy makers
+                  seeking to transition to industrialized construction; and
+                  discuss new areas for research.},
+  url          = {https://www.tandfonline.com/doi/full/10.1080/01446193.2023.2187071},
+  keywords     = {AEC Cited Lit for Jacqui;\_BibTex to MD Git}
+}
+
+@MISC{Yurkevich2021-mu,
+  title        = {America desperately needs 1 million more construction workers},
+  author       = {Yurkevich, Vanessa},
+  journaltitle = {CNN},
+  edition      = {CNN Business},
+  date         = {2021-07-08},
+  abstract     = {Matthew Messer hauls solar panels on the roof of a home in
+                  Long Island, New York, hoisting them one by one in the
+                  100-degree June heat. Messer is the owner of New York Solar
+                  Maintenance, but these days he's working right alongside his
+                  lead technician seven days a week as business booms.},
+  url          = {https://www.cnn.com/2021/07/08/economy/construction-worker-shortage/index.html},
+  urldate      = {2022-04-10},
+  keywords     = {2\_Upgrade MAY 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
+                  Git;AEC},
+  language     = {en}
+}
+
+@ARTICLE{Bock2015-tf,
+  title        = {The Future of Construction Automation: Technological
+                  Disruption and the Upcoming Ubiquity of Robotics},
+  author       = {Bock, Thomas},
+  journaltitle = {Automation in Construction},
+  publisher    = {Elsevier BV},
+  volume       = {59},
+  pages        = {113--121},
+  date         = {2015-11-01},
+  doi          = {10.1016/j.autcon.2015.07.022},
+  issn         = {0926-5805,1872-7891},
+  abstract     = {The following article reviews past and current tendencies and
+                  derives and describes opportunities for future construction
+                  automation that go beyond the current notion of construction
+                  automation. Various indicators suggest that conventional
+                  construction methodology has reached its limits. An overlay of
+                  S-curves can be used to describe the relationship between the
+                  stagnation and technical limits of conventional construction
+                  and the initiation, development, and growth of new strategies
+                  and technologies of construction automation. Although
+                  approaches of construction automation are still in an
+                  innovation or seed phase, it can be expected that with
+                  continued effort put into research and development these
+                  approaches may soon enter into the growth phase and encounter
+                  adoption on a larger scale. Furthermore, the article shows
+                  that over time, the ability of robot systems has grown,
+                  allowing them to work more and more in comparably unstructured
+                  environments as well as to be deployed in numerous and diverse
+                  fields. Currently, it can already be observed that
+                  construction automation technology, STCR approaches, service
+                  robot systems, and other microsystems technology are merging
+                  with the built environment, becoming inherent elements of
+                  buildings, building components, and building furniture.},
+  url          = {https://www.sciencedirect.com/science/article/abs/pii/S092658051500165X},
+  urldate      = {2026-03-06},
+  keywords     = {JG\_Recommended;\_BibTex to MD Git},
+  language     = {en}
+}
+
+@BOOK{Bock2015-ds,
+  title     = {Robot-Oriented Design: Design and Management Tools for the
+               Deployment of Automation and Robotics in Construction},
+  author    = {Bock, Thomas and Linner, Thomas},
+  publisher = {Cambridge University Press},
+  location  = {Cambridge, England},
+  date      = {2015-05-05},
+  pagetotal = {352},
+  doi       = {10.1017/cbo9781139924146},
+  isbn      = {9781107076389,9781107076389},
+  abstract  = {Robot-Oriented Design introduces the design, innovation, and
+               management methodologies that are key to the realization and
+               implementation of the advanced concepts and technologies
+               presented in the subsequent volumes of the Cambridge Handbooks on
+               Construction Robotics series. This book describes the efficient
+               deployment of advanced construction and building technology. It
+               is concerned with the co-adaptation of construction products,
+               processes, organization, and management, and with
+               automated/robotic technology, so that the implementation of
+               modern technology becomes easier and more efficient. It is also
+               concerned with technology and innovation management methodologies
+               and the generation of life cycle-oriented views related to the
+               use of advanced technologies in construction.},
+  url       = {http://dx.doi.org/10.1017/cbo9781139924146},
+  note      = {Full book contents located in dedicated folder.},
+  keywords  = {JG\_Recommended;Robot-Oriented Design;\_BibTex to MD Git;Book
+               (parent);AEC;Robots}
 }
 
 @MISC{Stahl2023-dx,

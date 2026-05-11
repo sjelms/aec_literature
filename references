@@ -1759,8 +1759,8 @@
   url       = {https://www.wbdg.org/resources/site-and-modular-construction-explained},
   urldate   = {2023-02-08},
   keywords  = {Construction 4-0;Notion Catalogued;2\_Upgrade MAY 2023;AEC Cited
-               Lit for Jacqui;\_BibTex to MD Git;\_Cataloged;AEC;Readwise
-               Reader;Website},
+               Lit for Jacqui;\_BibTex to MD
+               Git;\_Cataloged;AEC;Reader\_Obsidian;Website},
   language  = {en}
 }
 
@@ -2819,7 +2819,7 @@
   url          = {https://www.npr.org/2023/04/06/1158576556/where-did-the-workers-go-construction-jobs-are-plentiful-but-workers-are-scarce},
   urldate      = {2023-09-29},
   keywords     = {3\_Upgrade OCT 2023;AEC Cited Lit for Jacqui;\_BibTex to MD
-                  Git;Readwise Reader;Website;Labor;Statistics;\_Mark Up;AEC}
+                  Git;Reader\_Obsidian;Website;Labor;Statistics;\_Mark Up;AEC}
 }
 
 @MISC{Tucker1999-ml,
@@ -3158,7 +3158,7 @@
                   Disruption and the Upcoming Ubiquity of Robotics},
   author       = {Bock, Thomas},
   journaltitle = {Automation in Construction},
-  publisher    = {Elsevier BV},
+  publisher    = {Elsevier},
   volume       = {59},
   pages        = {113--121},
   date         = {2015-11-01},
